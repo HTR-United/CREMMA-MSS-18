@@ -11,8 +11,8 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1761" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1762" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1763" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1764" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/>
-    <OtherTag ID="LT596" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT597" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT598" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT599" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/>
+    <OtherTag ID="BT1761" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1762" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1763" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1764" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1767" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1768" LABEL="HeadingLine:rubric" DESCRIPTION="block type HeadingLine:rubric"/>
+    <OtherTag ID="LT596" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT597" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT598" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT599" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT602" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/>
   </Tags>
   
   <Layout>
@@ -25,30 +25,13 @@
                   WIDTH="3599"
                   HEIGHT="4715">
         
-        <TextBlock HPOS="94"
-                   VPOS="141"
-                   WIDTH="3379"
-                   HEIGHT="4381"
+        <TextBlock HPOS="66"
+                   VPOS="137"
+                   WIDTH="3407"
+                   HEIGHT="4385"
                    ID="eSc_textblock_21e8a7d6"
                    TAGREFS="BT1761">
-          <Shape><Polygon POINTS="3457 1363 3378 1524 3410 2007 3331 2306 3473 2404 3473 3217 3410 3438 3315 3504 3378 3693 3363 4333 2957 4302 2859 4475 2481 4522 236 4443 204 4322 94 4255 141 1650 188 1473 157 1053 236 954 125 801 157 675 267 609 157 514 236 157 625 157 770 298 861 298 1054 188 2863 157 3252 157 3394 282 3398 188 3319 172 3429 141"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_5be715db"
-                    TAGREFS="LT598"
-                    BASELINE="239 306 652 294" 
-                    HPOS="228"
-                    VPOS="153"
-                    WIDTH="424"
-                    HEIGHT="184">
-            <Shape><Polygon POINTS="239 306 228 220 397 216 424 196 495 153 499 153 503 153 507 153 645 176 652 294 649 318 239 337"/></Shape>
-	    <String CONTENT="La PL"
-                    HPOS="228"
-                    VPOS="153"
-                    WIDTH="424"
-                    HEIGHT="184"></String>
-          </TextLine>
-
+          <Shape><Polygon POINTS="3457 1363 3378 1524 3410 2098 3331 2306 3473 2404 3473 3217 3410 3438 3315 3504 3378 3846 3363 4333 2957 4302 2859 4475 2481 4522 236 4443 76 4438 94 4255 95 2216 188 1473 157 1053 236 954 125 801 157 675 118 609 66 510 236 157 585 137 774 190 898 174 1054 188 2863 157 3252 157 3394 282 3398 188 3319 172 3429 141"/></Shape>
           
           
           <TextLine ID="eSc_line_efba9e58"
@@ -64,6 +47,23 @@
                     VPOS="176"
                     WIDTH="2211"
                     HEIGHT="157"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5be715db"
+                    TAGREFS="LT598"
+                    BASELINE="239 306 652 294" 
+                    HPOS="228"
+                    VPOS="153"
+                    WIDTH="424"
+                    HEIGHT="184">
+            <Shape><Polygon POINTS="239 306 228 220 397 216 424 196 495 153 499 153 503 153 507 153 645 176 652 294 649 318 239 337"/></Shape>
+	    <String CONTENT="La PL"
+                    HPOS="228"
+                    VPOS="153"
+                    WIDTH="424"
+                    HEIGHT="184"></String>
           </TextLine>
 
           
@@ -528,16 +528,6 @@
                     HEIGHT="189"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="2769"
-                   VPOS="4652"
-                   WIDTH="59"
-                   HEIGHT="43"
-                   ID="eSc_textblock_ce8dacd9"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="2828 4667 2828 4695 2769 4695 2784 4652"/></Shape>
           
         </TextBlock>
         
