@@ -38,11 +38,11 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 18699
+  count: 20734
 - metric: files
-  count: 24
+  count: 25
 - metric: lines
-  count: 842
+  count: 876
 - metric: regions
   count: 61
 transcription-guidelines: "Abr\xE9viations conserv\xE9es."
