@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1765" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1766" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1771" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="BT1771" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1766" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1765" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT600" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT601" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
   </Tags>
   

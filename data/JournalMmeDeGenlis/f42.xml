@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1765" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1766" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1771" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="BT1771" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1766" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1765" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT600" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT601" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
   </Tags>
   
@@ -25,13 +25,13 @@
                   WIDTH="2513"
                   HEIGHT="4063">
         
-        <TextBlock HPOS="162"
-                   VPOS="103"
-                   WIDTH="2242"
-                   HEIGHT="3848"
-                   ID="eSc_textblock_f933170f"
-                   TAGREFS="BT1765">
-          <Shape><Polygon POINTS="1998 108 2065 176 1957 297 1971 362 2174 419 2201 551 1916 782 2133 880 2106 1039 1903 1232 1903 1310 1320 1350 1957 1340 2025 1394 1916 1730 2093 1760 2147 1892 2065 1963 2011 2204 2255 2288 2282 2556 2404 2722 2282 2952 2377 3626 2242 3802 660 3951 284 3937 243 3897 162 281 433 286 483 103"/></Shape>
+        <TextBlock HPOS="178"
+                   VPOS="97"
+                   WIDTH="263"
+                   HEIGHT="170"
+                   ID="eSc_textblock_4c990f04"
+                   TAGREFS="BT1766">
+          <Shape><Polygon POINTS="427 267 441 118 178 97 183 267"/></Shape>
           
           
           <TextLine ID="eSc_line_eb9de4b9"
@@ -41,7 +41,7 @@
                     VPOS="54"
                     WIDTH="244"
                     HEIGHT="233">
-            <Shape><Polygon POINTS="193 226 193 67 304 54 304 54 308 54 308 54 311 54 311 54 430 98 423 233 423 260 335 287 331 287 331 287 328 287 186 284"/></Shape>
+            <Shape><Polygon POINTS="193 226 193 67 304 54 308 54 311 54 430 98 423 233 423 260 335 287 331 287 328 287 186 284"/></Shape>
 	    <String CONTENT="40"
                     HPOS="186"
                     VPOS="54"
@@ -49,6 +49,16 @@
                     HEIGHT="233"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="162"
+                   VPOS="103"
+                   WIDTH="2242"
+                   HEIGHT="3848"
+                   ID="eSc_textblock_f933170f"
+                   TAGREFS="BT1765">
+          <Shape><Polygon POINTS="1998 108 2065 176 1957 297 1971 362 2174 419 2201 551 1916 782 2133 880 2106 1039 1903 1232 1903 1310 1320 1350 1957 1340 2025 1394 1916 1730 2093 1760 2147 1892 2065 1963 2011 2204 2255 2288 2282 2556 2404 2722 2282 2952 2377 3626 2242 3802 660 3951 284 3937 243 3897 162 281 433 286 483 103"/></Shape>
           
           
           <TextLine ID="eSc_line_6ab20552"
@@ -440,16 +450,6 @@
                     HEIGHT="349"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="178"
-                   VPOS="97"
-                   WIDTH="263"
-                   HEIGHT="170"
-                   ID="eSc_textblock_4c990f04"
-                   TAGREFS="BT1766">
-          <Shape><Polygon POINTS="427 267 441 118 178 97 183 267"/></Shape>
           
         </TextBlock>
         
