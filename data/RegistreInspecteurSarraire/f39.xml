@@ -1,0 +1,1575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f39.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1910" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1782" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1781" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT607" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT660" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6264"
+          HEIGHT="8180"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6264"
+                  HEIGHT="8180">
+        
+        <TextBlock HPOS="927"
+                   VPOS="679"
+                   WIDTH="966"
+                   HEIGHT="625"
+                   ID="eSc_textblock_7fe4fa30"
+                   TAGREFS="BT1910">
+          <Shape><Polygon POINTS="927 679 927 1304 1893 1304 1893 679"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e2969fd1"
+                    TAGREFS="LT607"
+                    BASELINE="975 878 1572 807" 
+                    HPOS="934"
+                    VPOS="674"
+                    WIDTH="635"
+                    HEIGHT="328">
+            <Shape><Polygon POINTS="968 872 934 749 982 702 982 695 982 695 989 695 989 695 989 695 996 695 996 695 996 695 1003 695 1003 695 1009 695 1009 695 1009 695 1016 695 1057 722 1091 695 1091 688 1091 688 1098 688 1098 688 1098 688 1105 688 1105 688 1105 688 1548 674 1569 804 1562 824 1357 831 1187 940 1105 995 1098 995 1098 995 1098 995 1091 995 1091 995 975 1002"/></Shape>
+	    <String CONTENT="Comre Chenon"
+                    HPOS="934"
+                    VPOS="674"
+                    WIDTH="635"
+                    HEIGHT="328"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dee876b9"
+                    TAGREFS="LT607"
+                    BASELINE="1246 1021 1603 996" 
+                    HPOS="1214"
+                    VPOS="790"
+                    WIDTH="382"
+                    HEIGHT="266">
+            <Shape><Polygon POINTS="1241 1015 1214 845 1351 790 1351 790 1357 790 1357 790 1364 790 1364 790 1364 790 1583 838 1596 995 1589 1022 1241 1056"/></Shape>
+	    <String CONTENT="Renon"
+                    HPOS="1214"
+                    VPOS="790"
+                    WIDTH="382"
+                    HEIGHT="266"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ed5cace"
+                    TAGREFS="LT607"
+                    BASELINE="1077 1164 1690 1103" 
+                    HPOS="1050"
+                    VPOS="988"
+                    WIDTH="635"
+                    HEIGHT="286">
+            <Shape><Polygon POINTS="1071 1158 1050 1042 1671 988 1685 1097 1685 1117 1514 1138 1514 1138 1364 1274 1364 1274 1357 1274 1357 1274 1357 1274 1351 1274 1351 1274 1351 1274 1344 1274 1344 1274 1337 1274 1057 1192"/></Shape>
+	    <String CONTENT="Cont."
+                    HPOS="1050"
+                    VPOS="988"
+                    WIDTH="635"
+                    HEIGHT="286"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="939"
+                   VPOS="1724"
+                   WIDTH="982"
+                   HEIGHT="538"
+                   ID="eSc_textblock_2dbdfe00"
+                   TAGREFS="BT1910">
+          <Shape><Polygon POINTS="939 1724 939 2262 1921 2262 1921 1724"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f5027fc4"
+                    TAGREFS="LT607"
+                    BASELINE="951 1927 1672 1870" 
+                    HPOS="934"
+                    VPOS="1704"
+                    WIDTH="737"
+                    HEIGHT="259">
+            <Shape><Polygon POINTS="948 1922 934 1785 1644 1704 1671 1867 1664 1908 948 1963"/></Shape>
+	    <String CONTENT="Com^re Grimperel"
+                    HPOS="934"
+                    VPOS="1704"
+                    WIDTH="737"
+                    HEIGHT="259"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46ae59a6"
+                    TAGREFS="LT607"
+                    BASELINE="1212 2061 1614 2029" 
+                    HPOS="1187"
+                    VPOS="1867"
+                    WIDTH="423"
+                    HEIGHT="218">
+            <Shape><Polygon POINTS="1207 2058 1187 1901 1583 1867 1610 2024 1610 2044 1207 2085"/></Shape>
+	    <String CONTENT="Martin"
+                    HPOS="1187"
+                    VPOS="1867"
+                    WIDTH="423"
+                    HEIGHT="218"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d85f92d8"
+                    TAGREFS="LT607"
+                    BASELINE="1015 2189 1863 2157" 
+                    HPOS="975"
+                    VPOS="1976"
+                    WIDTH="887"
+                    HEIGHT="293">
+            <Shape><Polygon POINTS="1009 2188 975 2044 1044 2004 1050 2004 1050 2004 1057 2004 1057 2004 1057 2004 1064 2004 1064 2004 1064 2004 1071 2004 1071 2004 1139 2031 1139 2031 1842 1976 1862 2154 1856 2194 1337 2269 1337 2269 1330 2269 1330 2269 1003 2235"/></Shape>
+	    <String CONTENT="Soup. La f^e Berthier"
+                    HPOS="975"
+                    VPOS="1976"
+                    WIDTH="887"
+                    HEIGHT="293"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1950"
+                   VPOS="592"
+                   WIDTH="3564"
+                   HEIGHT="6872"
+                   ID="eSc_textblock_a1427efe"
+                   TAGREFS="BT1781">
+          <Shape><Polygon POINTS="1950 592 2011 7459 5514 7464 5514 734 5239 667 5141 592"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_074c571a"
+                    TAGREFS="LT607"
+                    BASELINE="3084 786 3839 730" 
+                    HPOS="3056"
+                    VPOS="606"
+                    WIDTH="778"
+                    HEIGHT="198">
+            <Shape><Polygon POINTS="3077 783 3056 681 3370 654 3418 606 3418 606 3418 606 3425 606 3425 606 3432 606 3432 606 3432 606 3439 606 3821 620 3834 729 3834 756 3077 804"/></Shape>
+	    <String CONTENT="Du 8 8^bre 1760"
+                    HPOS="3056"
+                    VPOS="606"
+                    WIDTH="778"
+                    HEIGHT="198"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6f1ded58"
+                    TAGREFS="LT607"
+                    BASELINE="1986 888 5442 786" 
+                    HPOS="1965"
+                    VPOS="640"
+                    WIDTH="3473"
+                    HEIGHT="266">
+            <Shape><Polygon POINTS="1985 886 1965 777 2204 722 2204 722 2204 722 2210 722 3009 743 3111 743 3248 736 3916 688 3923 688 3923 688 4128 708 4141 708 4148 708 4285 661 4292 661 4292 661 4292 661 4298 661 4298 661 4305 661 4305 661 4305 661 4312 661 4312 661 4360 702 4367 702 4380 702 4981 640 4981 640 4988 640 5424 674 5438 783 5431 811 1985 906"/></Shape>
+	    <String CONTENT="Le S^r Sarraire a le 3 de Cemois pris Connoissance Cher le S^r Comre Chenon de la"
+                    HPOS="1965"
+                    VPOS="640"
+                    WIDTH="3473"
+                    HEIGHT="266"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60f9d2f2"
+                    TAGREFS="LT607"
+                    BASELINE="1991 960 5452 883" 
+                    HPOS="1972"
+                    VPOS="777"
+                    WIDTH="3473"
+                    HEIGHT="211">
+            <Shape><Polygon POINTS="1985 954 1972 838 5424 777 5445 879 5445 899 1985 988"/></Shape>
+	    <String CONTENT="declaration qui y a fait le meme Jour leS^r mathieu Renon m^e Bourrelier aparis y demt rue de"
+                    HPOS="1972"
+                    VPOS="777"
+                    WIDTH="3473"
+                    HEIGHT="211"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d5159153"
+                    TAGREFS="LT607"
+                    BASELINE="2001 1057 3257 1026" 
+                    HPOS="1985"
+                    VPOS="913"
+                    WIDTH="1269"
+                    HEIGHT="191">
+            <Shape><Polygon POINTS="1999 1056 1985 954 2272 913 2272 913 2279 913 3241 927 3254 1022 3254 1042 2401 1090 2395 1090 2395 1090 2388 1090 2374 1090 2265 1063 1999 1104"/></Shape>
+	    <String CONTENT="Sepulcrhe faux bourg St Germain"
+                    HPOS="1985"
+                    VPOS="913"
+                    WIDTH="1269"
+                    HEIGHT="191"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dbfae09a"
+                    TAGREFS="LT607"
+                    BASELINE="1986 1174 5462 1031" 
+                    HPOS="1965"
+                    VPOS="886"
+                    WIDTH="3493"
+                    HEIGHT="327">
+            <Shape><Polygon POINTS="1985 1172 1965 1049 4599 961 5042 906 5104 899 5104 899 5110 899 5138 899 5363 920 5431 886 5458 1029 5458 1056 1985 1213"/></Shape>
+	    <String CONTENT="par Laquel il a dit que le 4 de Ce mois Sur les unze heures du Soir passant Sur le quay de la"
+                    HPOS="1965"
+                    VPOS="886"
+                    WIDTH="3493"
+                    HEIGHT="327"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a3e1a758"
+                    TAGREFS="LT607"
+                    BASELINE="1968 1268 5503 1154" 
+                    HPOS="1944"
+                    VPOS="1022"
+                    WIDTH="3555"
+                    HEIGHT="279">
+            <Shape><Polygon POINTS="1965 1267 1944 1152 5479 1022 5499 1152 5499 1172 1965 1301"/></Shape>
+	    <String CONTENT="megisserie il y a Eté attaqué par 4 particuliers Lon terrassé Et pedant ce temps Lun deux"
+                    HPOS="1944"
+                    VPOS="1022"
+                    WIDTH="3555"
+                    HEIGHT="279"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d6b24e5"
+                    TAGREFS="LT607"
+                    BASELINE="2494 1292 2772 1286" 
+                    HPOS="2483"
+                    VPOS="1206"
+                    WIDTH="287"
+                    HEIGHT="184">
+            <Shape><Polygon POINTS="2490 1288 2483 1206 2756 1213 2770 1281 2763 1370 2490 1390"/></Shape>
+	    <String CONTENT="montre"
+                    HPOS="2483"
+                    VPOS="1206"
+                    WIDTH="287"
+                    HEIGHT="184"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f95af976"
+                    TAGREFS="LT607"
+                    BASELINE="1978 1391 5488 1257" 
+                    HPOS="1958"
+                    VPOS="1138"
+                    WIDTH="3528"
+                    HEIGHT="279">
+            <Shape><Polygon POINTS="1972 1390 1958 1274 2313 1227 2320 1227 3254 1227 3357 1227 3377 1220 3568 1179 3568 1179 3568 1179 3575 1179 3575 1179 3575 1179 3705 1206 3718 1206 3739 1206 4073 1158 4073 1158 4080 1158 4373 1179 4373 1179 4373 1179 4605 1138 4605 1138 4612 1138 5472 1145 5486 1254 5486 1274 1972 1417"/></Shape>
+	    <String CONTENT="Lui a volé Sa &gt;tabatierre&lt; a boette dargent Cadran demail marquant heures et minuttes faites"
+                    HPOS="1958"
+                    VPOS="1138"
+                    WIDTH="3528"
+                    HEIGHT="279"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_95896494"
+                    TAGREFS="LT607"
+                    BASELINE="1977 1492 5494 1359" 
+                    HPOS="1958"
+                    VPOS="1227"
+                    WIDTH="3534"
+                    HEIGHT="306">
+            <Shape><Polygon POINTS="1972 1486 1958 1383 5472 1227 5492 1356 5486 1397 4025 1417 2756 1506 2708 1506 2702 1506 2702 1506 2702 1506 2695 1506 2558 1479 1972 1533"/></Shape>
+	    <String CONTENT="par Chatenain aparis a Laquelle pend un Cordon de Soye verte Et Sa Clef de cuivre,"
+                    HPOS="1958"
+                    VPOS="1227"
+                    WIDTH="3534"
+                    HEIGHT="306"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f544b3fc"
+                    TAGREFS="LT607"
+                    BASELINE="1991 1614 5482 1455" 
+                    HPOS="1972"
+                    VPOS="1349"
+                    WIDTH="3507"
+                    HEIGHT="300">
+            <Shape><Polygon POINTS="1985 1608 1972 1506 5465 1349 5479 1451 5479 1472 1985 1649"/></Shape>
+	    <String CONTENT="avec un petit Crochet dargent ; ne peut signaler les dits 4 particuliers Sinon un"
+                    HPOS="1972"
+                    VPOS="1349"
+                    WIDTH="3507"
+                    HEIGHT="300"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4a6b5573"
+                    TAGREFS="LT607"
+                    BASELINE="1985 1736 4078 1653" 
+                    HPOS="1958"
+                    VPOS="1533"
+                    WIDTH="2115"
+                    HEIGHT="239">
+            <Shape><Polygon POINTS="1978 1731 1958 1608 4053 1533 4073 1649 4066 1670 1978 1772"/></Shape>
+	    <String CONTENT="Grand vetû dune Redingotte Et veste blanchartre"
+                    HPOS="1958"
+                    VPOS="1533"
+                    WIDTH="2115"
+                    HEIGHT="239"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47a86bd8"
+                    TAGREFS="LT607"
+                    BASELINE="3076 1793 3586 1749" 
+                    HPOS="3056"
+                    VPOS="1642"
+                    WIDTH="526"
+                    HEIGHT="162">
+            <Shape><Polygon POINTS="3070 1792 3056 1670 3561 1642 3582 1765 3573 1765 3073 1804"/></Shape>
+	    <String CONTENT="Dudit jour"
+                    HPOS="3056"
+                    VPOS="1642"
+                    WIDTH="526"
+                    HEIGHT="162"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b884aab9"
+                    TAGREFS="LT607"
+                    BASELINE="2014 1894 5452 1739" 
+                    HPOS="2006"
+                    VPOS="1656"
+                    WIDTH="3439"
+                    HEIGHT="273">
+            <Shape><Polygon POINTS="2012 1888 2006 1799 2156 1826 2900 1799 2927 1758 2934 1758 2934 1751 2940 1751 2947 1751 5431 1656 5445 1738 5438 1758 2012 1929"/></Shape>
+	    <String CONTENT="Le S^r Sarraire a Le 1er de Ce mois fait accompagné Cher le S^r Comre Grimperel Jacques"
+                    HPOS="2006"
+                    VPOS="1656"
+                    WIDTH="3439"
+                    HEIGHT="273"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a2795ff7"
+                    TAGREFS="LT607"
+                    BASELINE="2004 1991 5328 1851" 
+                    HPOS="1985"
+                    VPOS="1738"
+                    WIDTH="3337"
+                    HEIGHT="272">
+            <Shape><Polygon POINTS="1999 1990 1985 1888 5301 1738 5322 1847 5322 1867 1999 2010"/></Shape>
+	    <String CONTENT="martin aubergiste Logeur demt Rue Beaurepaire au petit St martin pour y faire Sa declaration"
+                    HPOS="1985"
+                    VPOS="1738"
+                    WIDTH="3337"
+                    HEIGHT="272"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4925174"
+                    TAGREFS="LT607"
+                    BASELINE="1991 2080 5437 1953" 
+                    HPOS="1965"
+                    VPOS="1833"
+                    WIDTH="3466"
+                    HEIGHT="314">
+            <Shape><Polygon POINTS="1985 2079 1965 1963 5411 1833 5431 1949 5431 1970 3295 2038 3193 2079 3193 2079 3186 2079 3186 2079 3179 2079 3179 2079 2934 2058 2893 2106 2879 2113 2879 2113 2879 2119 2879 2119 2872 2119 2872 2119 2865 2119 2865 2119 2865 2119 1985 2147"/></Shape>
+	    <String CONTENT="il a dit que Le 23 7bre dernier un particulier qui a dit Se nommer pierre Courtapée Et Sa femme"
+                    HPOS="1965"
+                    VPOS="1833"
+                    WIDTH="3466"
+                    HEIGHT="314"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_93b35d0e"
+                    TAGREFS="LT607"
+                    BASELINE="1991 2165 5422 2032" 
+                    HPOS="1972"
+                    VPOS="1929"
+                    WIDTH="3445"
+                    HEIGHT="272">
+            <Shape><Polygon POINTS="1985 2160 1972 2065 5397 1929 5417 2031 5417 2085 3787 2181 3780 2181 3780 2181 3780 2181 3773 2181 3773 2181 3766 2181 3712 2140 3664 2119 3432 2119 3364 2154 3248 2201 3248 2201 3241 2201 3241 2201 3234 2201 3234 2201 3234 2201 3227 2201 3227 2201 3132 2160 3077 2140 1985 2194"/></Shape>
+	    <String CONTENT="Se disant natif de Saulieu En Bourgogne, Sont venus Loger Chez Luy quils y ont Resté Jusqua Ce Jour"
+                    HPOS="1972"
+                    VPOS="1929"
+                    WIDTH="3445"
+                    HEIGHT="272"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90c8c0d6"
+                    TAGREFS="LT607"
+                    BASELINE="1996 2251 5457 2098" 
+                    HPOS="1978"
+                    VPOS="1976"
+                    WIDTH="3474"
+                    HEIGHT="368">
+            <Shape><Polygon POINTS="1992 2249 1978 2147 5438 1976 5452 2092 5452 2188 5233 2194 5226 2194 5226 2194 5220 2194 5220 2194 5220 2194 5213 2194 5213 2194 5213 2188 5151 2133 4251 2167 3807 2188 3650 2269 3650 2269 3650 2269 3643 2269 3643 2269 1992 2344"/></Shape>
+	    <String CONTENT="dhier 1^er de Ce mois, Le declarant S&#39;est apercus aussitot quils ont Eté partie que Sa montre a boette"
+                    HPOS="1978"
+                    VPOS="1976"
+                    WIDTH="3474"
+                    HEIGHT="368"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f6ae1449"
+                    TAGREFS="LT607"
+                    BASELINE="2001 2323 5493 2165" 
+                    HPOS="1985"
+                    VPOS="2051"
+                    WIDTH="3507"
+                    HEIGHT="300">
+            <Shape><Polygon POINTS="1999 2317 1985 2229 5479 2051 5492 2160 5486 2181 1999 2351"/></Shape>
+	    <String CONTENT="dargent Eguilles d&#39;heures et minuttes cadran demail, Lui avoit Eté volée quil Soupconne de Cevol Ladite"
+                    HPOS="1985"
+                    VPOS="2051"
+                    WIDTH="3507"
+                    HEIGHT="300"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3fd2c9ba"
+                    TAGREFS="LT607"
+                    BASELINE="1996 2405 5437 2241" 
+                    HPOS="1972"
+                    VPOS="2133"
+                    WIDTH="3459"
+                    HEIGHT="395">
+            <Shape><Polygon POINTS="1992 2399 1972 2304 5417 2133 5431 2235 5431 2324 4994 2385 4994 2385 4988 2385 4483 2385 4319 2385 4298 2392 4264 2419 4257 2419 4257 2419 4257 2419 4251 2419 4251 2419 4251 2419 4244 2419 4244 2419 4237 2419 4237 2419 4182 2399 4135 2385 3909 2419 3705 2447 3705 2447 3698 2447 3698 2447 3568 2440 3418 2426 3336 2454 3288 2467 3282 2467 3282 2467 3282 2467 3275 2467 3118 2467 2743 2454 2592 2494 2572 2501 2565 2501 2565 2501 2565 2501 1992 2528"/></Shape>
+	    <String CONTENT="Courtepée ny ayant quelle qui ait Entré dans Sa chambre que depuis il appris que Le nom de Courtepée"
+                    HPOS="1972"
+                    VPOS="2133"
+                    WIDTH="3459"
+                    HEIGHT="395"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb80b213"
+                    TAGREFS="LT607"
+                    BASELINE="1996 2491 5284 2328" 
+                    HPOS="1978"
+                    VPOS="2229"
+                    WIDTH="3303"
+                    HEIGHT="286">
+            <Shape><Polygon POINTS="1992 2488 1978 2392 5267 2229 5281 2324 5281 2365 1992 2515"/></Shape>
+	    <String CONTENT="netoit pas Son vray nom, mais Bien pierre Berthier qui a Eté m^d devin a La nouvelle france"
+                    HPOS="1978"
+                    VPOS="2229"
+                    WIDTH="3303"
+                    HEIGHT="286"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_816b9a94"
+                    TAGREFS="LT607"
+                    BASELINE="3150 2547 3609 2517" 
+                    HPOS="3132"
+                    VPOS="2406"
+                    WIDTH="470"
+                    HEIGHT="184">
+            <Shape><Polygon POINTS="3145 2542 3132 2413 3582 2406 3602 2515 3602 2535 3145 2590"/></Shape>
+	    <String CONTENT="Du dit Jour"
+                    HPOS="3132"
+                    VPOS="2406"
+                    WIDTH="470"
+                    HEIGHT="184"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5c3b0ce"
+                    TAGREFS="LT607"
+                    BASELINE="2017 2650 5503 2486" 
+                    HPOS="2006"
+                    VPOS="2481"
+                    WIDTH="3493"
+                    HEIGHT="225">
+            <Shape><Polygon POINTS="2012 2644 2006 2569 5492 2528 5499 2481 5499 2508 4919 2522 4885 2542 4749 2603 4749 2603 4749 2603 4742 2603 4742 2603 4483 2624 4483 2631 4285 2631 4278 2624 4278 2624 4271 2624 4271 2624 4271 2624 4264 2624 4264 2624 4210 2576 4182 2563 3828 2576 3814 2597 3759 2651 3759 2651 3759 2658 3759 2658 3752 2658 3752 2658 3746 2658 3746 2658 3746 2658 2729 2706 2722 2706 2722 2706 2722 2706 2715 2706 2715 2706 2715 2706 2627 2658 2586 2638 2012 2685"/></Shape>
+	    <String CONTENT="Le S^r Sarraire a le 30 7bre dernier fait accompagné Cher Le S^r Comre Chenon Laditte marie"
+                    HPOS="2006"
+                    VPOS="2481"
+                    WIDTH="3493"
+                    HEIGHT="225"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f4a7543"
+                    TAGREFS="LT607"
+                    BASELINE="2011 2741 4768 2578" 
+                    HPOS="1985"
+                    VPOS="2474"
+                    WIDTH="2777"
+                    HEIGHT="293">
+            <Shape><Polygon POINTS="2006 2740 1985 2644 4749 2474 4762 2576 4762 2597 2006 2767"/></Shape>
+	    <String CONTENT="marchais v^e du S^r pierre dhacqueville md mercier pour y faire Sa declaration"
+                    HPOS="1985"
+                    VPOS="2474"
+                    WIDTH="2777"
+                    HEIGHT="293"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e24585ce"
+                    TAGREFS="LT607"
+                    BASELINE="1996 2854 5478 2624" 
+                    HPOS="1972"
+                    VPOS="2481"
+                    WIDTH="3500"
+                    HEIGHT="477">
+            <Shape><Polygon POINTS="1992 2849 1972 2733 5452 2481 5472 2617 5472 2665 4517 2699 4476 2753 4448 2788 4442 2788 4442 2794 4442 2794 4435 2794 4435 2794 4435 2794 4428 2794 4428 2794 3793 2835 3787 2835 3787 2835 3787 2835 3780 2835 3780 2835 3725 2815 3609 2767 3329 2774 3207 2801 3145 2863 3138 2869 3138 2869 3138 2876 3138 2876 3132 2876 3132 2876 3132 2876 3125 2876 3125 2876 1992 2958"/></Shape>
+	    <String CONTENT="elle a dit quil lui a Eté volé une quarantaine de pieces detoffes dont 8 pieces de Croisés fort, Laplus"
+                    HPOS="1972"
+                    VPOS="2481"
+                    WIDTH="3500"
+                    HEIGHT="477"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8dd79305"
+                    TAGREFS="LT607"
+                    BASELINE="2011 2941 5411 2706" 
+                    HPOS="1992"
+                    VPOS="2597"
+                    WIDTH="3412"
+                    HEIGHT="375">
+            <Shape><Polygon POINTS="2006 2937 1992 2835 5383 2597 5404 2699 5404 2726 2006 2972"/></Shape>
+	    <String CONTENT="part Couleur de rose Et Bruns, une piece de dauras Sur fil bleu Et Blanc de 29 aulnes trois"
+                    HPOS="1992"
+                    VPOS="2597"
+                    WIDTH="3412"
+                    HEIGHT="375"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59b7ae18"
+                    TAGREFS="LT607"
+                    BASELINE="2001 3043 5503 2793" 
+                    HPOS="1978"
+                    VPOS="2658"
+                    WIDTH="3521"
+                    HEIGHT="416">
+            <Shape><Polygon POINTS="1999 3040 1978 2931 5479 2658 5499 2788 5499 2822 1999 3074"/></Shape>
+	    <String CONTENT="quarts, une piece de Croisé Cramoisy a Carreaux avec un petit Bouquet [meché?] dans le milieu,"
+                    HPOS="1978"
+                    VPOS="2658"
+                    WIDTH="3521"
+                    HEIGHT="416"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a2ddb16f"
+                    TAGREFS="LT607"
+                    BASELINE="1996 3145 5488 2905" 
+                    HPOS="1972"
+                    VPOS="2781"
+                    WIDTH="3514"
+                    HEIGHT="402">
+            <Shape><Polygon POINTS="1992 3142 1972 3026 5465 2781 5486 2903 5486 2924 4803 2958 4783 2978 4701 3053 4701 3053 4701 3053 4694 3053 4694 3053 4694 3053 4687 3053 4687 3053 3391 3142 3384 3142 3384 3142 3384 3142 3377 3142 3377 3142 3248 3094 3193 3074 1992 3183"/></Shape>
+	    <String CONTENT="une piece de Croisé mordorée Rouges a Colonnes blanches avec des poires Jeanne, une veste a bordure"
+                    HPOS="1972"
+                    VPOS="2781"
+                    WIDTH="3514"
+                    HEIGHT="402"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99572bf7"
+                    TAGREFS="LT607"
+                    BASELINE="1991 3247 5488 2987" 
+                    HPOS="1965"
+                    VPOS="2883"
+                    WIDTH="3521"
+                    HEIGHT="423">
+            <Shape><Polygon POINTS="1985 3244 1965 3122 5465 2883 5486 2985 5486 3006 5233 3019 5226 3033 5185 3067 5185 3067 5179 3067 5179 3067 5179 3067 5172 3067 5172 3067 5172 3067 5165 3067 4974 3053 4872 3047 3596 3135 3555 3176 3555 3176 3555 3176 3548 3176 3548 3176 3548 3176 3541 3176 3541 3176 3541 3176 3466 3183 2558 3210 2524 3258 2517 3258 2517 3265 2517 3265 2517 3265 2511 3265 2511 3265 2511 3265 2504 3265 2504 3265 1985 3306"/></Shape>
+	    <String CONTENT="du droquet Satiné Couleur Canelle, Le Surplus [???] Croisée Et taffetats a carreaux, que Ce"
+                    HPOS="1965"
+                    VPOS="2883"
+                    WIDTH="3521"
+                    HEIGHT="423"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba4d88d2"
+                    TAGREFS="LT607"
+                    BASELINE="2001 3349 5508 3078" 
+                    HPOS="1978"
+                    VPOS="2965"
+                    WIDTH="3528"
+                    HEIGHT="477">
+            <Shape><Polygon POINTS="1999 3346 1978 3224 5492 2965 5506 3074 5499 3115 3507 3237 3364 3319 3323 3340 3323 3340 3323 3340 3316 3340 3316 3340 1999 3442"/></Shape>
+	    <String CONTENT="vol lui a Eté fait dans la nuit du 29 au 30 en une Boutique a Lenseigne du nom de [Jesses?]"
+                    HPOS="1978"
+                    VPOS="2965"
+                    WIDTH="3528"
+                    HEIGHT="477"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cda89fb3"
+                    TAGREFS="LT607"
+                    BASELINE="2011 3420 5488 3180" 
+                    HPOS="1992"
+                    VPOS="3067"
+                    WIDTH="3494"
+                    HEIGHT="382">
+            <Shape><Polygon POINTS="2006 3415 1992 3319 5465 3067 5486 3176 5486 3203 2006 3449"/></Shape>
+	    <String CONTENT="Sur le quay de La megisserie a Costé de La rue des fuseaux par une fenestre qui donne dans"
+                    HPOS="1992"
+                    VPOS="3067"
+                    WIDTH="3494"
+                    HEIGHT="382"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94a92c31"
+                    TAGREFS="LT607"
+                    BASELINE="1991 3543 5427 3272" 
+                    HPOS="1965"
+                    VPOS="3156"
+                    WIDTH="3459"
+                    HEIGHT="409">
+            <Shape><Polygon POINTS="1985 3537 1965 3415 5411 3156 5424 3272 5424 3292 1985 3565"/></Shape>
+	    <String CONTENT="Ladite rue Et que Lon avoit arraché un des Barreaux a Ladite fenêtre, quelle avoit fait"
+                    HPOS="1965"
+                    VPOS="3156"
+                    WIDTH="3459"
+                    HEIGHT="409"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0df26486"
+                    TAGREFS="LT607"
+                    BASELINE="2006 3630 5508 3369" 
+                    HPOS="1985"
+                    VPOS="3265"
+                    WIDTH="3521"
+                    HEIGHT="375">
+            <Shape><Polygon POINTS="1999 3626 1985 3524 5486 3265 5506 3367 5506 3394 1999 3640"/></Shape>
+	    <String CONTENT="porter Ses marchandises dans Cette Boutique pour Les faire vendre par authorité de Justice"
+                    HPOS="1985"
+                    VPOS="3265"
+                    WIDTH="3521"
+                    HEIGHT="375"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_18117880"
+                    TAGREFS="LT607"
+                    BASELINE="1996 3747 5202 3487" 
+                    HPOS="1972"
+                    VPOS="3367"
+                    WIDTH="3227"
+                    HEIGHT="463">
+            <Shape><Polygon POINTS="1992 3742 1972 3606 5185 3367 5199 3483 5199 3517 4319 3565 4169 3619 4148 3626 4141 3626 4141 3626 4141 3626 4135 3626 4135 3626 4135 3626 4128 3626 4121 3626 4012 3592 3350 3640 3179 3708 3179 3708 3172 3708 3172 3708 3166 3708 2708 3701 2572 3776 2565 3783 2558 3783 2558 3783 2558 3783 2552 3783 2552 3783 1992 3830"/></Shape>
+	    <String CONTENT="dont il y a deJeat Eu Six a Sept vacation ne sait qui peut Lui avoir fait Ce vol;"
+                    HPOS="1972"
+                    VPOS="3367"
+                    WIDTH="3227"
+                    HEIGHT="463"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_051fb33d"
+                    TAGREFS="LT607"
+                    BASELINE="2001 3849 4181 3671" 
+                    HPOS="1978"
+                    VPOS="3544"
+                    WIDTH="2198"
+                    HEIGHT="348">
+            <Shape><Polygon POINTS="1999 3844 1978 3742 3657 3571 3657 3571 3664 3571 3875 3585 3991 3544 3991 3544 3998 3544 3998 3544 3998 3544 4005 3544 4005 3544 4162 3571 4176 3667 4176 3694 1999 3892"/></Shape>
+	    <String CONTENT="le S^r Com^re a Le meme Jour Constaté Leffraction ;"
+                    HPOS="1978"
+                    VPOS="3544"
+                    WIDTH="2198"
+                    HEIGHT="348"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4ec8df8"
+                    TAGREFS="LT607"
+                    BASELINE="3084 3885 3594 3839" 
+                    HPOS="3056"
+                    VPOS="3715"
+                    WIDTH="533"
+                    HEIGHT="265">
+            <Shape><Polygon POINTS="3077 3878 3056 3749 3568 3715 3589 3837 3589 3960 3077 3980"/></Shape>
+	    <String CONTENT="Dudit Jour"
+                    HPOS="3056"
+                    VPOS="3715"
+                    WIDTH="533"
+                    HEIGHT="265"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4d5a620f"
+                    TAGREFS="LT607"
+                    BASELINE="2003 4028 5489 3833" 
+                    HPOS="1985"
+                    VPOS="3674"
+                    WIDTH="3501"
+                    HEIGHT="375">
+            <Shape><Polygon POINTS="1999 4021 1985 3885 2292 3885 2313 3865 2347 3837 2347 3837 2354 3837 2354 3837 2354 3837 2360 3837 2360 3837 2360 3837 2367 3837 2586 3851 2681 3858 2708 3844 2749 3817 2756 3817 2756 3817 2756 3817 2763 3817 2763 3817 2763 3817 2770 3817 2770 3817 2900 3837 2940 3844 2954 3837 2981 3810 2981 3803 2981 3803 2988 3803 2988 3803 2988 3803 2995 3803 2995 3803 3002 3803 3002 3803 3166 3824 3234 3830 3978 3796 4039 3783 4373 3728 4373 3728 4380 3728 4380 3728 4380 3728 4387 3728 4387 3728 4476 3762 4483 3762 4510 3762 4796 3708 4796 3708 4803 3708 5213 3721 5356 3674 5363 3674 5363 3674 5363 3674 5370 3674 5370 3674 5376 3674 5376 3674 5479 3715 5486 3830 5486 3865 1999 4049"/></Shape>
+	    <String CONTENT="Le S^r Sarraire a le 30 7^bre dernier fait accompagné Cher le S^r Com^re Chenon d^lle marie"
+                    HPOS="1985"
+                    VPOS="3674"
+                    WIDTH="3501"
+                    HEIGHT="375"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c664f8b2"
+                    TAGREFS="LT607"
+                    BASELINE="2017 4126 5531 3959" 
+                    HPOS="1999"
+                    VPOS="3844"
+                    WIDTH="3528"
+                    HEIGHT="375">
+            <Shape><Polygon POINTS="2012 4124 1999 4001 5513 3844 5527 3953 5520 4049 5247 3987 5185 4028 5179 4028 5179 4028 5179 4028 5172 4028 5172 4028 5165 4028 4564 4015 4141 4076 4141 4076 4141 4083 3152 4083 3009 4171 3002 4171 3002 4171 3002 4171 2995 4171 2995 4171 2995 4171 2012 4219"/></Shape>
+	    <String CONTENT="Jeanne Collerieu fille maJeur marchande Lingerre dem^te Sous Les Charniers S^t Innoncents"
+                    HPOS="1999"
+                    VPOS="3844"
+                    WIDTH="3528"
+                    HEIGHT="375"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ecf7aa8c"
+                    TAGREFS="LT607"
+                    BASELINE="2013 4219 3043 4163" 
+                    HPOS="1999"
+                    VPOS="4062"
+                    WIDTH="1037"
+                    HEIGHT="191">
+            <Shape><Polygon POINTS="2012 4212 1999 4117 3016 4062 3036 4158 3029 4178 2012 4253"/></Shape>
+	    <String CONTENT="pour y faire Sa declaration"
+                    HPOS="1999"
+                    VPOS="4062"
+                    WIDTH="1037"
+                    HEIGHT="191"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5e82683"
+                    TAGREFS="LT607"
+                    BASELINE="2008 4321 5470 4195" 
+                    HPOS="1985"
+                    VPOS="4028"
+                    WIDTH="3480"
+                    HEIGHT="341">
+            <Shape><Polygon POINTS="2006 4314 1985 4192 3091 4158 3145 4130 3234 4103 3241 4103 3241 4103 3241 4103 3248 4103 3480 4117 3684 4130 3800 4103 3903 4076 3909 4076 3909 4076 3916 4076 3916 4076 3916 4076 3923 4076 3978 4096 4053 4117 4230 4083 4339 4062 4339 4062 4339 4062 4346 4062 4346 4062 4346 4062 4353 4062 4394 4076 4483 4103 4619 4062 4633 4062 4640 4062 4640 4062 4646 4062 4646 4062 4646 4062 4660 4062 4790 4089 4844 4055 4858 4042 4865 4042 4865 4042 4865 4042 4872 4042 4872 4042 4878 4042 4878 4042 4878 4042 4885 4042 4885 4042 4906 4049 4981 4083 5042 4042 5056 4035 5063 4035 5063 4035 5069 4035 5069 4035 5069 4035 5445 4028 5465 4192 5458 4212 2456 4308 2381 4355 2374 4355 2374 4355 2374 4355 2367 4355 2367 4355 2367 4355 2006 4369"/></Shape>
+	    <String CONTENT="elle a dit quelle adonné a vendre differentes marchandises de Son Commerce a La dame Boulard"
+                    HPOS="1985"
+                    VPOS="4028"
+                    WIDTH="3480"
+                    HEIGHT="341"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2eb23031"
+                    TAGREFS="LT607"
+                    BASELINE="2008 4409 5475 4288" 
+                    HPOS="1992"
+                    VPOS="4178"
+                    WIDTH="3480"
+                    HEIGHT="334">
+            <Shape><Polygon POINTS="2006 4403 1992 4301 5452 4178 5472 4287 5472 4314 5220 4362 5220 4362 5220 4362 5213 4362 5213 4362 5206 4362 5110 4335 5063 4328 4114 4355 4039 4396 4039 4396 4039 4396 4032 4396 4032 4396 4032 4396 4025 4396 3643 4376 3575 4424 3541 4458 3541 4458 3534 4458 3534 4458 3534 4458 3527 4458 3527 4458 3527 4458 2006 4512"/></Shape>
+	    <String CONTENT="Sa Sœur, pour les vendre a Lafoire S^t michel En clos du palais, que Ladite Boulard a Eté pour"
+                    HPOS="1992"
+                    VPOS="4178"
+                    WIDTH="3480"
+                    HEIGHT="334"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26052f84"
+                    TAGREFS="LT607"
+                    BASELINE="2008 4506 5345 4404" 
+                    HPOS="1992"
+                    VPOS="4267"
+                    WIDTH="3350"
+                    HEIGHT="286">
+            <Shape><Polygon POINTS="2006 4505 1992 4396 5322 4267 5342 4403 5342 4430 4640 4430 4489 4458 4360 4485 4360 4485 4360 4485 4353 4485 4353 4485 4353 4485 4346 4485 4292 4464 4237 4451 3828 4458 3800 4485 3773 4505 3773 4512 3773 4512 3766 4512 3766 4512 3759 4512 3759 4512 3759 4512 3336 4526 3329 4526 3329 4526 3323 4526 3323 4526 3268 4505 3207 4485 2279 4505 2006 4553"/></Shape>
+	    <String CONTENT="Reprendre les dites marchandises et a Eté Etonné devoir touts Ces paquets defaits Et derangé,"
+                    HPOS="1992"
+                    VPOS="4267"
+                    WIDTH="3350"
+                    HEIGHT="286"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_18284ac0"
+                    TAGREFS="LT607"
+                    BASELINE="2008 4604 5466 4493" 
+                    HPOS="1992"
+                    VPOS="4389"
+                    WIDTH="3473"
+                    HEIGHT="273">
+            <Shape><Polygon POINTS="2006 4601 1992 4499 5445 4389 5465 4492 5458 4539 4455 4539 4394 4580 4380 4594 4380 4594 4373 4594 4373 4594 4367 4594 4367 4594 4367 4594 4360 4594 4360 4594 4360 4594 4353 4594 4353 4594 4346 4594 4346 4594 4346 4587 4339 4580 4292 4546 4087 4594 4060 4594 4060 4594 4060 4594 4053 4594 4053 4594 4053 4594 4046 4594 4046 4594 4039 4594 3964 4560 3097 4573 2715 4642 2647 4648 2647 4648 2640 4648 2640 4648 2640 4648 2633 4648 2613 4642 2504 4608 2374 4655 2360 4655 2354 4655 2354 4655 2354 4655 2006 4662"/></Shape>
+	    <String CONTENT="qu&#39;a pres Lexamen que Laditte Boulard en a fait elle S&#39;est appercu quil Lui avoit Eté volé pour"
+                    HPOS="1992"
+                    VPOS="4389"
+                    WIDTH="3473"
+                    HEIGHT="273"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1d39720"
+                    TAGREFS="LT607"
+                    BASELINE="2017 4711 5442 4590" 
+                    HPOS="1999"
+                    VPOS="4478"
+                    WIDTH="3439"
+                    HEIGHT="266">
+            <Shape><Polygon POINTS="2012 4710 1999 4614 5417 4478 5438 4587 5438 4621 2012 4744"/></Shape>
+	    <String CONTENT="Environs 300# de marchandises, tant en mouseline double, Rayées, et Simple, Bonnets"
+                    HPOS="1999"
+                    VPOS="4478"
+                    WIDTH="3439"
+                    HEIGHT="266"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b6bab04"
+                    TAGREFS="LT607"
+                    BASELINE="2003 4808 5470 4701" 
+                    HPOS="1978"
+                    VPOS="4594"
+                    WIDTH="3487"
+                    HEIGHT="252">
+            <Shape><Polygon POINTS="1999 4805 1978 4703 5445 4594 5465 4696 5465 4723 1999 4846"/></Shape>
+	    <String CONTENT="ronds, Cols, Coeffes, &gt;et&lt; Coeffures, Et manchettes, elle Soupconne de Ce vol Laditte monplesier ou"
+                    HPOS="1978"
+                    VPOS="4594"
+                    WIDTH="3487"
+                    HEIGHT="252"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76d8514a"
+                    TAGREFS="LT607"
+                    BASELINE="2003 4919 3619 4878" 
+                    HPOS="1985"
+                    VPOS="4771"
+                    WIDTH="1631"
+                    HEIGHT="198">
+            <Shape><Polygon POINTS="1999 4914 1985 4805 3596 4771 3616 4873 3609 4894 3125 4901 3104 4921 3084 4942 3084 4942 3077 4942 3077 4942 3077 4942 3070 4942 3070 4942 3063 4942 2749 4935 2265 4928 1999 4969"/></Shape>
+	    <String CONTENT="Son fils attendu quil Est un derangé ;"
+                    HPOS="1985"
+                    VPOS="4771"
+                    WIDTH="1631"
+                    HEIGHT="198"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af1e20e7"
+                    TAGREFS="LT607"
+                    BASELINE="3085 5045 3911 5003" 
+                    HPOS="3050"
+                    VPOS="4833"
+                    WIDTH="859"
+                    HEIGHT="293">
+            <Shape><Polygon POINTS="3084 5044 3050 4914 3097 4873 3097 4873 3104 4873 3104 4873 3104 4873 3111 4873 3111 4873 3111 4873 3118 4873 3118 4873 3118 4873 3125 4873 3125 4873 3132 4873 3179 4901 3186 4908 3889 4833 3909 4996 3909 5017 3459 5030 3404 5085 3377 5105 3377 5112 3377 5112 3370 5112 3370 5112 3364 5112 3364 5112 3364 5112 3091 5126"/></Shape>
+	    <String CONTENT="Du 9 8^bre 1760"
+                    HPOS="3050"
+                    VPOS="4833"
+                    WIDTH="859"
+                    HEIGHT="293"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3090d433"
+                    TAGREFS="LT607"
+                    BASELINE="2013 5147 5507 5026" 
+                    HPOS="1992"
+                    VPOS="4853"
+                    WIDTH="3514"
+                    HEIGHT="327">
+            <Shape><Polygon POINTS="2012 5146 1992 4982 2347 4962 2354 4962 2354 4962 2354 4962 2381 4962 2511 4996 2606 4962 2606 4962 2613 4962 2613 4962 2620 4962 2620 4962 2620 4962 2627 4962 2627 4962 2722 5003 2824 4948 2838 4942 2838 4942 2838 4942 2845 4942 2845 4942 2852 4942 2852 4942 2852 4942 2859 4942 2879 4948 3022 4989 3937 4969 4155 4901 4155 4901 4162 4901 4162 4901 4169 4901 4216 4901 4373 4901 4373 4901 4373 4901 4380 4901 4380 4901 4380 4901 4387 4901 4387 4901 4435 4942 4680 4880 4721 4873 4721 4873 4721 4873 4728 4873 4728 4873 4769 4873 5069 4921 5131 4867 5131 4867 5131 4860 5131 4860 5138 4860 5138 4860 5138 4860 5144 4860 5144 4860 5151 4860 5151 4860 5151 4860 5158 4860 5172 4860 5301 4901 5479 4853 5506 5023 5499 5071 5151 5051 5076 5085 5076 5085 5076 5085 5069 5085 5069 5085 5069 5085 5063 5085 5063 5085 5063 5085 5056 5085 4940 5057 4872 5092 4872 5092 4872 5092 4865 5092 4865 5092 4865 5092 4865 5092 2012 5180"/></Shape>
+	    <String CONTENT="Le S^r Sarraire a Le 7 de Ce mois fait accompagné Cher Le S^r Comre Thierion"
+                    HPOS="1992"
+                    VPOS="4853"
+                    WIDTH="3514"
+                    HEIGHT="327"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_42312042"
+                    TAGREFS="LT607"
+                    BASELINE="2008 5249 5452 5133" 
+                    HPOS="1985"
+                    VPOS="5030"
+                    WIDTH="3460"
+                    HEIGHT="252">
+            <Shape><Polygon POINTS="2006 5248 1985 5112 5424 5030 5445 5132 5445 5153 2006 5282"/></Shape>
+	    <String CONTENT="Le nôé Charles Le Kamp Suisse de m^r Le Comte de Graville dem^t rue"
+                    HPOS="1985"
+                    VPOS="5030"
+                    WIDTH="3460"
+                    HEIGHT="252"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f0af333"
+                    TAGREFS="LT607"
+                    BASELINE="2008 5351 5442 5263" 
+                    HPOS="1992"
+                    VPOS="5139"
+                    WIDTH="3446"
+                    HEIGHT="259">
+            <Shape><Polygon POINTS="2006 5344 1992 5235 5417 5139 5438 5262 5438 5282 5329 5323 5329 5323 5322 5323 5322 5323 5315 5323 5315 5323 5315 5323 5308 5323 5308 5323 5226 5289 5213 5289 4605 5296 4592 5310 4578 5337 4578 5337 4571 5337 4571 5344 4571 5344 4564 5344 4564 5344 4564 5344 4558 5344 4558 5344 4558 5344 4551 5344 4551 5344 4401 5317 4332 5310 4298 5323 4237 5351 4237 5351 4230 5351 4230 5351 4230 5351 4223 5351 4223 5351 4223 5351 4216 5351 4216 5351 4162 5330 4135 5317 4025 5330 3862 5357 3862 5357 3855 5357 3855 5357 3855 5357 3759 5344 3684 5330 3575 5351 3432 5371 3432 5371 3425 5371 3425 5371 3425 5371 3418 5371 3418 5371 3377 5357 3309 5330 3009 5337 2981 5371 2975 5371 2975 5378 2975 5378 2968 5378 2968 5378 2968 5378 2961 5378 2961 5378 2954 5378 2954 5378 2879 5371 2620 5344 2006 5398"/></Shape>
+	    <String CONTENT="Et paroisse de La magdelaine f B S^t honnoré pour y faire Sa declaration"
+                    HPOS="1992"
+                    VPOS="5139"
+                    WIDTH="3446"
+                    HEIGHT="259"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5de9d13a"
+                    TAGREFS="LT607"
+                    BASELINE="2013 5467 5391 5374" 
+                    HPOS="1999"
+                    VPOS="5255"
+                    WIDTH="3391"
+                    HEIGHT="266">
+            <Shape><Polygon POINTS="2012 5466 1999 5364 2238 5317 2238 5317 2238 5317 2244 5317 2688 5337 2715 5337 2940 5337 2940 5330 2961 5303 2968 5303 2968 5296 2968 5296 2975 5296 2975 5296 2975 5296 2981 5296 2981 5296 2981 5296 2988 5296 3370 5317 3418 5317 3452 5317 3691 5276 3691 5276 3698 5276 3698 5276 3875 5303 3909 5303 3930 5296 4019 5269 4025 5269 4025 5269 4025 5269 4032 5269 4032 5269 4032 5269 4039 5269 4114 5289 4135 5296 5370 5255 5390 5371 5383 5480 3773 5521 3766 5521 3766 5521 3759 5521 3759 5521 3759 5521 3752 5521 3752 5521 3732 5501 3664 5446 3473 5446 2872 5494 2865 5494 2067 5487 2026 5521"/></Shape>
+	    <String CONTENT="il a dit que le 13 7^bre dernier environ 8 &gt;heures&lt; a neuf heures du Soir"
+                    HPOS="1999"
+                    VPOS="5255"
+                    WIDTH="3391"
+                    HEIGHT="266"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b648689"
+                    TAGREFS="LT607"
+                    BASELINE="2017 5583 5429 5462" 
+                    HPOS="1999"
+                    VPOS="5323"
+                    WIDTH="3425"
+                    HEIGHT="280">
+            <Shape><Polygon POINTS="2012 5582 1999 5473 5404 5323 5424 5460 5424 5487 2012 5603"/></Shape>
+	    <String CONTENT="passant Sur Le Boulevard de La rue de Richelieu a celle des Capucins il fut"
+                    HPOS="1999"
+                    VPOS="5323"
+                    WIDTH="3425"
+                    HEIGHT="280"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d872215"
+                    TAGREFS="LT607"
+                    BASELINE="1999 5685 5429 5565" 
+                    HPOS="1972"
+                    VPOS="5453"
+                    WIDTH="3452"
+                    HEIGHT="354">
+            <Shape><Polygon POINTS="1992 5678 1972 5562 5404 5453 5424 5562 5424 5589 5063 5589 5035 5610 5015 5630 5015 5630 5015 5630 5008 5630 5008 5630 5001 5630 5001 5630 5001 5630 4994 5630 4994 5630 4994 5630 4988 5630 4988 5630 4988 5630 4981 5630 4981 5630 4967 5616 4940 5596 4571 5637 4571 5637 4564 5637 4564 5637 4558 5637 4558 5637 4483 5610 4373 5651 4373 5651 4367 5651 4367 5651 4360 5651 4360 5651 4360 5651 4353 5651 4353 5651 4264 5616 3486 5637 3309 5726 3213 5766 3213 5766 3207 5766 3207 5766 3207 5766 1992 5807"/></Shape>
+	    <String CONTENT="attaqué par trois particuliers qui Lui volerent Sa montre &gt;dans Son&lt; qui Est a"
+                    HPOS="1972"
+                    VPOS="5453"
+                    WIDTH="3452"
+                    HEIGHT="354"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5cb491a3"
+                    TAGREFS="LT607"
+                    BASELINE="1999 5815 5452 5685" 
+                    HPOS="1972"
+                    VPOS="5535"
+                    WIDTH="3473"
+                    HEIGHT="361">
+            <Shape><Polygon POINTS="1992 5814 1972 5664 5424 5535 5445 5678 5445 5780 4558 5848 4551 5848 3978 5821 3923 5821 3923 5821 3896 5855 3889 5855 3889 5862 3889 5862 3882 5862 3882 5862 3882 5862 3875 5862 3875 5862 3868 5862 3452 5848 3364 5896 3364 5896 3364 5896 3357 5896 3357 5896 3357 5896 3350 5896 3350 5896 3343 5896 3343 5896 3343 5896 3227 5841 3152 5807 1992 5869"/></Shape>
+	    <String CONTENT="Boette dargent, Cadran demail a heures Et minuttes, aiguilles dor, faites a paris"
+                    HPOS="1972"
+                    VPOS="5535"
+                    WIDTH="3473"
+                    HEIGHT="361"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44ece222"
+                    TAGREFS="LT607"
+                    BASELINE="2013 5931 5271 5783" 
+                    HPOS="1999"
+                    VPOS="5664"
+                    WIDTH="3268"
+                    HEIGHT="307">
+            <Shape><Polygon POINTS="2012 5930 1999 5814 5254 5664 5267 5780 5267 5821 2012 5971"/></Shape>
+	    <String CONTENT="par Gouchon, Garnie dun Cordon de Soye verte, Cachet de pierre noir"
+                    HPOS="1999"
+                    VPOS="5664"
+                    WIDTH="3268"
+                    HEIGHT="307"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a2ab11c9"
+                    TAGREFS="LT607"
+                    BASELINE="2003 6061 5391 5927" 
+                    HPOS="1965"
+                    VPOS="5773"
+                    WIDTH="3425"
+                    HEIGHT="423">
+            <Shape><Polygon POINTS="1999 6060 1965 5937 2040 5889 2047 5889 2047 5889 2047 5889 2053 5889 2053 5889 2060 5889 2060 5889 2060 5889 2067 5889 2067 5889 2067 5889 2074 5889 2122 5923 2340 5875 2340 5875 2340 5875 2347 5875 2347 5875 2599 5910 2647 5910 2708 5903 2995 5848 2995 5848 3002 5848 3452 5862 3473 5862 3507 5862 4012 5807 4012 5807 4019 5807 4019 5807 4148 5828 4216 5841 4360 5821 4571 5787 4571 5787 4578 5787 4578 5787 4578 5787 4585 5787 4585 5787 4633 5807 4694 5828 5370 5773 5390 5923 5383 5964 5247 5957 5192 5978 5117 6012 5117 6012 5110 6012 5110 6012 5110 6012 5104 6012 5104 6012 5104 6012 5097 6012 5097 6012 5097 6012 5090 6012 5063 5991 5028 5971 4387 5985 4312 6025 4312 6025 4312 6025 4305 6025 4305 6025 4305 6025 4298 6025 3882 6012 3725 6025 3664 6087 3616 6121 3616 6128 3616 6128 3609 6128 3609 6128 3602 6128 3602 6128 3602 6128 3596 6128 3295 6107 3213 6107 3186 6121 3145 6148 3138 6148 3138 6148 3132 6148 3132 6148 3132 6148 1999 6196"/></Shape>
+	    <String CONTENT="Gravée dune tête couronnée monté En Cuivre, Et Clef dargent ne peut"
+                    HPOS="1965"
+                    VPOS="5773"
+                    WIDTH="3425"
+                    HEIGHT="423"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2aa4216f"
+                    TAGREFS="LT607"
+                    BASELINE="2013 6159 3697 6075" 
+                    HPOS="1999"
+                    VPOS="5971"
+                    WIDTH="1699"
+                    HEIGHT="225">
+            <Shape><Polygon POINTS="2012 6155 1999 6053 2838 5971 2845 5971 3677 5971 3691 6073 3698 6094 3534 6141 3527 6141 3527 6141 3520 6141 3520 6141 3520 6141 3514 6141 3411 6114 3404 6114 3391 6114 3125 6162 3125 6162 3125 6162 2012 6196"/></Shape>
+	    <String CONTENT="Signaler auCun desdits particuliers"
+                    HPOS="1999"
+                    VPOS="5971"
+                    WIDTH="1699"
+                    HEIGHT="225"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e74cf85"
+                    TAGREFS="LT607"
+                    BASELINE="3229 6261 4264 6224" 
+                    HPOS="3220"
+                    VPOS="6039"
+                    WIDTH="1037"
+                    HEIGHT="259">
+            <Shape><Polygon POINTS="3227 6257 3220 6100 3575 6107 3671 6073 3712 6053 3712 6053 3718 6053 3718 6053 3718 6053 3725 6053 3725 6053 3793 6060 3978 6094 4032 6046 4039 6046 4039 6039 4046 6039 4046 6039 4046 6039 4053 6039 4053 6039 4060 6039 4244 6039 4257 6223 4251 6244 3227 6298"/></Shape>
+	    <String CONTENT="Du 9 8^bre 1760"
+                    HPOS="3220"
+                    VPOS="6039"
+                    WIDTH="1037"
+                    HEIGHT="259"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c3327f4b"
+                    TAGREFS="LT607"
+                    BASELINE="2008 6400 5503 6289" 
+                    HPOS="1992"
+                    VPOS="6128"
+                    WIDTH="3507"
+                    HEIGHT="313">
+            <Shape><Polygon POINTS="2006 6394 1992 6291 2258 6223 2258 6223 2258 6223 2265 6223 2265 6223 2265 6223 2272 6223 2272 6223 2272 6223 2340 6257 2674 6209 2674 6209 2681 6209 2681 6209 2681 6209 2688 6209 2688 6209 2784 6250 2790 6257 2804 6250 2872 6203 2879 6203 2879 6203 2879 6203 2886 6203 2886 6203 2893 6203 3050 6203 3050 6203 3050 6203 3056 6203 3056 6203 3056 6203 3063 6203 3063 6203 3063 6209 3097 6237 3111 6250 4353 6216 4530 6169 4633 6148 4633 6148 4633 6148 4640 6148 4817 6155 5281 6182 5472 6128 5499 6284 5492 6332 2006 6441"/></Shape>
+	    <String CONTENT="Le S^r Sarraire a Le 4 de Ce mois fait accompagné Cher le S^r Comm^re"
+                    HPOS="1992"
+                    VPOS="6128"
+                    WIDTH="3507"
+                    HEIGHT="313"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea300ae7"
+                    TAGREFS="LT607"
+                    BASELINE="2013 6521 5410 6405" 
+                    HPOS="1985"
+                    VPOS="6284"
+                    WIDTH="3419"
+                    HEIGHT="341">
+            <Shape><Polygon POINTS="2012 6516 1985 6421 2026 6380 2026 6373 2026 6373 2033 6373 2033 6373 2033 6373 2040 6373 2040 6373 2047 6373 2047 6373 2047 6373 2197 6400 2449 6359 2449 6359 2449 6359 5383 6284 5404 6400 5404 6421 5110 6441 5001 6516 4994 6516 4994 6516 4994 6516 4988 6516 4988 6516 4981 6516 4981 6516 4981 6516 4974 6516 4974 6516 4974 6516 4967 6516 4967 6516 4899 6455 4892 6455 4892 6455 4831 6503 4831 6503 4824 6503 4824 6503 4817 6503 4817 6503 4817 6503 4810 6503 4810 6503 4810 6503 4803 6503 4803 6503 4721 6469 4694 6455 3978 6509 3862 6516 3855 6516 3855 6516 3848 6516 3602 6489 3398 6503 3323 6550 3288 6571 3282 6571 3282 6571 3275 6571 3275 6571 3275 6571 3268 6571 3268 6571 3268 6571 3261 6571 3261 6571 3220 6557 3132 6516 3043 6564 2995 6591 2995 6591 2995 6591 2988 6591 2988 6591 2988 6591 2012 6625"/></Shape>
+	    <String CONTENT="de machurin Le S^r Godeffroy paradis m^e Boutonnier Rue au gers pour y"
+                    HPOS="1985"
+                    VPOS="6284"
+                    WIDTH="3419"
+                    HEIGHT="341"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b55f44b9"
+                    TAGREFS="LT607"
+                    BASELINE="2003 6637 2978 6590" 
+                    HPOS="1978"
+                    VPOS="6462"
+                    WIDTH="997"
+                    HEIGHT="245">
+            <Shape><Polygon POINTS="1999 6632 1978 6503 2954 6462 2975 6584 2968 6605 2217 6632 2169 6687 2169 6687 2169 6693 2169 6693 2169 6693 2163 6693 2163 6693 2163 6693 2156 6693 2156 6693 1999 6707"/></Shape>
+	    <String CONTENT="faire Sa declaration"
+                    HPOS="1978"
+                    VPOS="6462"
+                    WIDTH="997"
+                    HEIGHT="245"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_814c19b8"
+                    TAGREFS="LT607"
+                    BASELINE="1999 6757 5498 6609" 
+                    HPOS="1972"
+                    VPOS="6434"
+                    WIDTH="3520"
+                    HEIGHT="423">
+            <Shape><Polygon POINTS="1992 6755 1972 6591 2940 6584 3043 6550 3125 6530 3132 6530 3132 6530 3138 6530 3138 6530 3254 6544 3370 6557 3500 6537 3643 6509 3643 6509 3650 6509 3650 6509 3787 6523 3896 6537 3978 6516 4107 6489 4107 6489 4107 6489 4114 6489 4114 6489 4121 6489 4121 6489 4182 6509 4223 6523 4373 6503 4701 6462 4701 6462 4708 6462 4708 6462 4715 6462 4824 6489 4851 6496 4885 6489 5015 6448 5022 6448 5022 6448 5028 6448 5028 6448 5260 6475 5288 6475 5295 6475 5349 6434 5356 6434 5356 6434 5356 6434 5363 6434 5363 6434 5370 6434 5370 6434 5370 6434 5376 6434 5486 6469 5492 6605 5486 6639 3118 6714 3043 6796 3029 6803 3029 6809 3029 6809 3022 6809 3022 6809 3022 6809 3016 6809 3016 6809 3016 6809 1992 6857"/></Shape>
+	    <String CONTENT="il a dit que Le meme Jour au matin on Est venu Lui dire que Sa Boutique"
+                    HPOS="1972"
+                    VPOS="6434"
+                    WIDTH="3520"
+                    HEIGHT="423"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4d611a63"
+                    TAGREFS="LT607"
+                    BASELINE="2008 6869 5494 6729" 
+                    HPOS="1985"
+                    VPOS="6571"
+                    WIDTH="3507"
+                    HEIGHT="320">
+            <Shape><Polygon POINTS="2006 6864 1985 6734 5472 6571 5492 6728 5492 6762 2006 6891"/></Shape>
+	    <String CONTENT="Etoit ouverte il y a Eté et a vue que Lon avoit fait Sauter La traversse de La"
+                    HPOS="1985"
+                    VPOS="6571"
+                    WIDTH="3507"
+                    HEIGHT="320"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5a5a494"
+                    TAGREFS="LT607"
+                    BASELINE="2013 6975 5480 6841" 
+                    HPOS="1999"
+                    VPOS="6714"
+                    WIDTH="3480"
+                    HEIGHT="307">
+            <Shape><Polygon POINTS="2012 6973 1999 6864 2204 6816 2204 6816 2204 6816 5458 6714 5479 6837 5472 6864 4448 6884 4326 6918 4257 6932 4257 6932 4257 6932 4251 6932 4251 6932 4169 6925 4005 6912 3821 6939 3746 6952 3746 6952 3739 6952 3739 6952 3739 6952 3698 6946 3589 6925 3575 6952 3575 6952 3575 6952 3568 6952 3568 6959 3568 6959 3561 6959 3561 6959 3561 6959 3555 6959 3555 6959 3555 6959 3357 6966 3350 6966 3350 6966 3309 6966 3132 6946 3050 6980 3036 6980 3036 6980 3029 6980 3029 6980 3022 6980 2961 6980 2538 6966 2429 7000 2422 7000 2422 7000 2422 7000 2415 7000 2415 7000 2190 6980 2019 7021"/></Shape>
+	    <String CONTENT="porte Et que Lon Lui a volé 6 douzaines de paires de Jarretierres de Soye de"
+                    HPOS="1999"
+                    VPOS="6714"
+                    WIDTH="3480"
+                    HEIGHT="307"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2600ac0e"
+                    TAGREFS="LT607"
+                    BASELINE="2017 7101 5424 6975" 
+                    HPOS="1999"
+                    VPOS="6850"
+                    WIDTH="3418"
+                    HEIGHT="293">
+            <Shape><Polygon POINTS="2012 7096 1999 6980 2190 6932 2190 6932 2190 6932 2197 6932 2197 6932 2197 6932 2340 6959 2565 6918 2565 6918 2565 6918 2572 6918 2572 6918 2749 6946 2756 6946 2763 6946 3193 6898 3193 6898 3200 6898 3200 6898 3207 6898 3316 6925 3323 6925 3329 6925 3561 6884 3561 6884 3561 6884 3568 6884 3568 6884 3575 6884 3677 6912 3684 6912 3705 6912 4107 6864 4107 6864 4114 6864 4114 6864 4251 6891 4264 6891 4285 6891 4469 6850 4469 6850 4476 6850 5404 6850 5417 6973 5411 7027 5056 7000 4612 7048 4612 7048 4605 7048 4292 7027 4162 7068 4155 7068 4155 7068 4155 7068 4148 7068 3186 7068 2981 7116 2954 7116 2954 7116 2954 7116 2947 7116 2865 7116 2231 7102 2012 7143"/></Shape>
+	    <String CONTENT="differentes Couleurs, 8 Cordons de Carme, 6 tours de Cols de manteau de"
+                    HPOS="1999"
+                    VPOS="6850"
+                    WIDTH="3418"
+                    HEIGHT="293"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_767e6e7c"
+                    TAGREFS="LT607"
+                    BASELINE="2003 7240 5382 7073" 
+                    HPOS="1978"
+                    VPOS="6939"
+                    WIDTH="3398"
+                    HEIGHT="361">
+            <Shape><Polygon POINTS="1999 7239 1978 7116 2210 7068 2210 7068 2217 7068 2784 7068 2879 7068 2920 7062 3159 7021 3159 7021 3159 7021 3166 7021 3166 7021 3172 7021 3268 7048 3282 7048 3288 7041 3336 7014 3343 7014 3343 7014 3350 7014 3350 7014 3350 7014 3357 7014 3357 7014 3364 7014 3364 7014 3364 7014 3411 7041 3418 7041 3425 7034 3466 7007 3473 7007 3473 7007 3473 7007 3480 7007 3480 7007 3486 7007 3486 7007 3650 7027 3691 7027 3698 7021 3739 6993 3746 6993 3746 6993 3746 6993 3752 6993 3752 6993 3759 6993 3759 6993 3916 7014 3964 7014 5363 6939 5376 7068 5370 7116 4837 7116 4455 7171 4380 7177 4380 7177 4373 7177 4373 7177 4373 7177 4367 7177 4367 7177 4360 7177 4298 7150 4271 7177 4271 7177 4271 7184 4271 7184 4264 7184 4264 7184 4264 7184 4257 7184 4257 7184 4251 7184 4251 7184 4251 7184 4244 7184 4244 7184 4244 7184 4237 7184 4237 7184 4237 7184 4189 7143 3643 7164 3623 7198 3616 7198 3616 7205 3616 7205 3609 7205 3609 7205 3609 7205 3602 7205 3602 7205 3596 7205 3596 7205 3418 7184 3234 7239 3220 7239 3213 7239 3213 7239 3207 7239 3207 7239 3207 7239 3193 7239 3029 7205 2674 7252 2674 7252 2668 7252 2279 7239 1999 7300"/></Shape>
+	    <String CONTENT="prestre, huit ou dix Grosses de petits Boutons de differentes Couleurs"
+                    HPOS="1978"
+                    VPOS="6939"
+                    WIDTH="3398"
+                    HEIGHT="361"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db2c2cfb"
+                    TAGREFS="LT607"
+                    BASELINE="2027 7333 5452 7254" 
+                    HPOS="2012"
+                    VPOS="7109"
+                    WIDTH="3433"
+                    HEIGHT="273">
+            <Shape><Polygon POINTS="2026 7327 2012 7212 5424 7109 5445 7252 5445 7280 2026 7382"/></Shape>
+	    <String CONTENT="3 ou 4 paquets de Boutons de Poille de Chevre, Et deux Gros Bouton"
+                    HPOS="2012"
+                    VPOS="7109"
+                    WIDTH="3433"
+                    HEIGHT="273"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="923"
+                   VPOS="2568"
+                   WIDTH="951"
+                   HEIGHT="633"
+                   ID="eSc_textblock_9dacbd36"
+                   TAGREFS="BT1910">
+          <Shape><Polygon POINTS="923 2568 923 3201 1874 3201 1874 2568"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_aec2ce90"
+                    TAGREFS="LT607"
+                    BASELINE="944 2777 1639 2706" 
+                    HPOS="928"
+                    VPOS="2542"
+                    WIDTH="709"
+                    HEIGHT="266">
+            <Shape><Polygon POINTS="941 2774 928 2603 1235 2603 1276 2576 1364 2542 1364 2542 1371 2542 1371 2542 1371 2542 1378 2542 1624 2563 1637 2699 1637 2740 941 2808"/></Shape>
+	    <String CONTENT="Com^re Chenon"
+                    HPOS="928"
+                    VPOS="2542"
+                    WIDTH="709"
+                    HEIGHT="266"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c30acc4"
+                    TAGREFS="LT607"
+                    BASELINE="1016 2935 1777 2869" 
+                    HPOS="982"
+                    VPOS="2706"
+                    WIDTH="792"
+                    HEIGHT="286">
+            <Shape><Polygon POINTS="1009 2931 982 2760 1753 2706 1774 2863 1767 2924 1548 2910 1009 2992"/></Shape>
+	    <String CONTENT="V^e D&#39;acqueville"
+                    HPOS="982"
+                    VPOS="2706"
+                    WIDTH="792"
+                    HEIGHT="286"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd2110bd"
+                    TAGREFS="LT607"
+                    BASELINE="1154 3068 1629 3043" 
+                    HPOS="1139"
+                    VPOS="2910"
+                    WIDTH="485"
+                    HEIGHT="273">
+            <Shape><Polygon POINTS="1153 3067 1139 2910 1610 2910 1624 3040 1617 3115 1542 3101 1508 3122 1392 3183 1392 3183 1392 3183 1385 3183 1385 3183 1385 3183 1378 3183 1378 3183 1371 3183 1139 3122"/></Shape>
+	    <String CONTENT="Cont. Incon"
+                    HPOS="1139"
+                    VPOS="2910"
+                    WIDTH="485"
+                    HEIGHT="273"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="935"
+                   VPOS="3754"
+                   WIDTH="1009"
+                   HEIGHT="746"
+                   ID="eSc_textblock_fc60f216"
+                   TAGREFS="BT1910">
+          <Shape><Polygon POINTS="935 3754 935 4500 1944 4500 1944 3754"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5ad190d4"
+                    TAGREFS="LT607"
+                    BASELINE="964 3919 1665 3870" 
+                    HPOS="941"
+                    VPOS="3749"
+                    WIDTH="723"
+                    HEIGHT="231">
+            <Shape><Polygon POINTS="962 3912 941 3776 1644 3749 1664 3865 1658 3905 962 3980"/></Shape>
+	    <String CONTENT="Comre Chenon"
+                    HPOS="941"
+                    VPOS="3749"
+                    WIDTH="723"
+                    HEIGHT="231"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe3bbc11"
+                    TAGREFS="LT607"
+                    BASELINE="997 4108 1787 4063" 
+                    HPOS="975"
+                    VPOS="3885"
+                    WIDTH="805"
+                    HEIGHT="232">
+            <Shape><Polygon POINTS="996 4103 975 3960 1760 3885 1780 4062 1774 4083 996 4117"/></Shape>
+	    <String CONTENT="f^e Collerieu"
+                    HPOS="975"
+                    VPOS="3885"
+                    WIDTH="805"
+                    HEIGHT="232"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b0e33c8"
+                    TAGREFS="LT607"
+                    BASELINE="1006 4249 1928 4213" 
+                    HPOS="989"
+                    VPOS="4049"
+                    WIDTH="935"
+                    HEIGHT="272">
+            <Shape><Polygon POINTS="1003 4246 989 4089 1903 4049 1924 4212 1917 4267 1589 4301 1589 4301 1583 4301 1583 4301 1576 4301 1576 4301 1576 4301 1569 4301 1569 4301 1542 4280 1508 4253 1262 4253 1207 4287 1153 4321 1146 4321 1146 4321 1139 4321 1139 4321 1139 4321 1132 4321 1132 4321 1132 4321 996 4287"/></Shape>
+	    <String CONTENT="Soup. la f^e moplaisir"
+                    HPOS="989"
+                    VPOS="4049"
+                    WIDTH="935"
+                    HEIGHT="272"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bddc000c"
+                    TAGREFS="LT607"
+                    BASELINE="1162 4372 1577 4366" 
+                    HPOS="1146"
+                    VPOS="4212"
+                    WIDTH="430"
+                    HEIGHT="273">
+            <Shape><Polygon POINTS="1160 4369 1146 4246 1555 4212 1576 4362 1569 4417 1160 4485"/></Shape>
+	    <String CONTENT="Et Son fils"
+                    HPOS="1146"
+                    VPOS="4212"
+                    WIDTH="430"
+                    HEIGHT="273"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="939"
+                   VPOS="4846"
+                   WIDTH="1009"
+                   HEIGHT="656"
+                   ID="eSc_textblock_5ab1e2c8"
+                   TAGREFS="BT1910">
+          <Shape><Polygon POINTS="939 4846 939 5502 1948 5502 1948 4846"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2a2af237"
+                    TAGREFS="LT607"
+                    BASELINE="969 5031 1897 5031" 
+                    HPOS="962"
+                    VPOS="4846"
+                    WIDTH="941"
+                    HEIGHT="239">
+            <Shape><Polygon POINTS="968 5030 962 4873 1746 4846 1753 4846 1753 4846 1760 4846 1903 4887 1896 5030 1896 5051 968 5085"/></Shape>
+	    <String CONTENT="Com^re Thierion"
+                    HPOS="962"
+                    VPOS="4846"
+                    WIDTH="941"
+                    HEIGHT="239"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1128b2b7"
+                    TAGREFS="LT607"
+                    BASELINE="1154 5244 1706 5230" 
+                    HPOS="1146"
+                    VPOS="5057"
+                    WIDTH="559"
+                    HEIGHT="225">
+            <Shape><Polygon POINTS="1153 5242 1146 5057 1692 5057 1705 5228 1699 5282 1146 5269"/></Shape>
+	    <String CONTENT="Le Kamp"
+                    HPOS="1146"
+                    VPOS="5057"
+                    WIDTH="559"
+                    HEIGHT="225"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b9bdb53"
+                    TAGREFS="LT607"
+                    BASELINE="1219 5388 1623 5379" 
+                    HPOS="1187"
+                    VPOS="5221"
+                    WIDTH="437"
+                    HEIGHT="280">
+            <Shape><Polygon POINTS="1214 5385 1187 5269 1248 5221 1248 5221 1255 5221 1255 5221 1255 5221 1262 5221 1262 5221 1269 5221 1269 5221 1603 5262 1617 5378 1624 5419 1371 5501 1364 5501 1364 5501 1364 5501 1357 5501 1357 5501 1351 5501 1351 5501 1351 5501 1200 5419"/></Shape>
+	    <String CONTENT="Cont. Inco"
+                    HPOS="1187"
+                    VPOS="5221"
+                    WIDTH="437"
+                    HEIGHT="280"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5255"
+                   VPOS="593"
+                   WIDTH="220"
+                   HEIGHT="94"
+                   ID="eSc_textblock_b3743625"
+                   TAGREFS="BT1782">
+          <Shape><Polygon POINTS="5255 593 5266 687 5475 679 5451 617"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ee3db912"
+                    TAGREFS="LT607"
+                    BASELINE="5279 659 5452 684" 
+                    HPOS="5247"
+                    VPOS="579"
+                    WIDTH="198"
+                    HEIGHT="218">
+            <Shape><Polygon POINTS="5274 654 5288 579 5445 620 5445 681 5417 797 5247 783"/></Shape>
+	    <String CONTENT="31"
+                    HPOS="5247"
+                    VPOS="579"
+                    WIDTH="198"
+                    HEIGHT="218"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="955"
+                   VPOS="6080"
+                   WIDTH="1133"
+                   HEIGHT="608"
+                   ID="eSc_textblock_227545ef"
+                   TAGREFS="BT1910">
+          <Shape><Polygon POINTS="955 6080 955 6688 1874 6679 1980 6366 2088 6248 1909 6080"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f13d9a63"
+                    TAGREFS="LT607"
+                    BASELINE="1043 6316 2041 6307" 
+                    HPOS="1030"
+                    VPOS="6073"
+                    WIDTH="1010"
+                    HEIGHT="314">
+            <Shape><Polygon POINTS="1037 6312 1030 6094 1337 6128 1439 6080 1467 6073 1467 6073 1473 6073 1473 6073 1473 6073 1480 6073 1480 6073 1480 6073 1487 6073 1487 6073 1494 6073 1508 6080 1589 6135 1821 6135 1910 6073 2040 6305 2040 6380 1890 6387 1883 6387 1883 6387 1883 6387 1876 6387 1876 6387 1849 6380 1740 6332 1473 6332 1439 6366 1419 6380 1419 6387 1419 6387 1412 6387 1412 6387 1412 6387 1405 6387 1405 6387 1398 6387 1398 6387 1398 6387 1392 6387 1392 6387 1392 6387 1385 6387 1351 6359 1303 6332 1037 6346"/></Shape>
+	    <String CONTENT="Comre de machurin"
+                    HPOS="1030"
+                    VPOS="6073"
+                    WIDTH="1010"
+                    HEIGHT="314"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bfcc3299"
+                    TAGREFS="LT607"
+                    BASELINE="1159 6465 1720 6446" 
+                    HPOS="1139"
+                    VPOS="6291"
+                    WIDTH="580"
+                    HEIGHT="212">
+            <Shape><Polygon POINTS="1153 6462 1139 6305 1699 6291 1719 6441 1712 6503 1146 6489"/></Shape>
+	    <String CONTENT="S^r Paradis"
+                    HPOS="1139"
+                    VPOS="6291"
+                    WIDTH="580"
+                    HEIGHT="212"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8cfa53ee"
+                    TAGREFS="LT607"
+                    BASELINE="1256 6600 1697 6572" 
+                    HPOS="1241"
+                    VPOS="6441"
+                    WIDTH="451"
+                    HEIGHT="273">
+            <Shape><Polygon POINTS="1255 6598 1241 6441 1678 6448 1692 6571 1692 6666 1562 6659 1542 6673 1487 6714 1487 6714 1480 6714 1480 6714 1473 6714 1473 6714 1473 6714 1467 6714 1467 6714 1248 6673"/></Shape>
+	    <String CONTENT="Cont. Inco"
+                    HPOS="1241"
+                    VPOS="6441"
+                    WIDTH="451"
+                    HEIGHT="273"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
