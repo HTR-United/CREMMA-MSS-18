@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>SIL-39088007769730_dessinsrelatifsa00cirf_0210.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2320" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1768" LABEL="HeadingLine:rubric" DESCRIPTION="block type HeadingLine:rubric"/><OtherTag ID="BT1767" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1764" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1763" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1762" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1761" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT596" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT597" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT598" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT599" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT602" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3599"
+          HEIGHT="4689"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3599"
+                  HEIGHT="4689">
+        
+        <TextBlock HPOS="60"
+                   VPOS="182"
+                   WIDTH="3490"
+                   HEIGHT="4333"
+                   ID="eSc_textblock_fa64e2df"
+                   TAGREFS="BT1761">
+          <Shape><Polygon POINTS="60 182 96 4515 3521 4442 3550 182"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fc562ebb"
+                    TAGREFS="LT598"
+                    BASELINE="324 265 2816 264" 
+                    HPOS="316"
+                    VPOS="179"
+                    WIDTH="2497"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="320 261 316 199 2809 179 2813 261 2813 277 320 285"/></Shape>
+	    <String CONTENT="Description d&#39;une machine pour arrondire les [[dents]] des roues et à Egaliser les ailes des pignons."
+                    HPOS="316"
+                    VPOS="179"
+                    WIDTH="2497"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f6075f6a"
+                    TAGREFS="LT596"
+                    BASELINE="2857 274 3279 274" 
+                    HPOS="2856"
+                    VPOS="168"
+                    WIDTH="422"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="2856 273 2856 199 2969 199 2977 187 2997 171 2997 168 2997 168 3001 168 3001 168 3001 168 3005 168 3005 168 3008 168 3278 168 3278 273 3278 289 2856 300"/></Shape>
+	    <String CONTENT="PLANCHE"
+                    HPOS="2856"
+                    VPOS="168"
+                    WIDTH="422"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43ff321b"
+                    TAGREFS="LT596"
+                    BASELINE="89 367 2946 351 3430 363" 
+                    HPOS="74"
+                    VPOS="269"
+                    WIDTH="3356"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="89 367 74 304 105 281 109 281 113 281 117 281 222 304 781 304 922 304 926 300 1051 277 1055 277 1754 296 1758 296 1789 273 1793 273 1797 273 1801 273 1903 293 2141 273 2145 273 2602 293 2606 293 2653 269 2657 269 2661 269 2665 269 2708 293 3176 293 3204 269 3208 269 3212 269 3216 269 3407 293 3430 363 3427 382 89 394"/></Shape>
+	    <String CONTENT="Le Pignons restendu sur la machine à restendre n&#39;a pu qu&#39;être ébauché, le fond des dents est resté creux a cause de la courbure de la fraise, les dents sont quarrés et quelques fois inégales"
+                    HPOS="74"
+                    VPOS="269"
+                    WIDTH="3356"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_00f7ce7b"
+                    TAGREFS="LT596"
+                    BASELINE="101 422 3427 406" 
+                    HPOS="93"
+                    VPOS="351"
+                    WIDTH="3334"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="101 422 93 367 3415 351 3427 406 3423 433 101 445"/></Shape>
+	    <String CONTENT="cette machine sert a les arrondir (a) est le pignon en question, on le fait entrer à force sur l&#39;arbre du diviseur (A) la fig.II. fait voir le plan ce diviseur, il est attaché par deux"
+                    HPOS="93"
+                    VPOS="351"
+                    WIDTH="3334"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd50d80f"
+                    TAGREFS="LT596"
+                    BASELINE="101 480 3391 453" 
+                    HPOS="93"
+                    VPOS="398"
+                    WIDTH="3298"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="101 480 93 422 3380 398 3391 453 3387 480 101 504"/></Shape>
+	    <String CONTENT="vis à l&#39;[[assiete]] (b) chassée à force sur l&#39;arbre (a). (B) est une vis de rappel qui fait mouvoir une alidade qui porte un talon (D), fig II, qui entre dans les [[dens]] du diviseur"
+                    HPOS="93"
+                    VPOS="398"
+                    WIDTH="3298"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d77c945"
+                    TAGREFS="LT596"
+                    BASELINE="105 539 3485 507" 
+                    HPOS="97"
+                    VPOS="461"
+                    WIDTH="3483"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="105 539 97 476 3531 461 3580 519 3481 531 105 558"/></Shape>
+	    <String CONTENT="du diviseur et le fixe solidement malgres leffert de la lime qui agit sur le pignon. cette alidade sert à, présenter avec juste su les ailes du pignon à la lime. (C) est un vis depression pour [[alidade]]"
+                    HPOS="97"
+                    VPOS="461"
+                    WIDTH="3483"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8bbe2394"
+                    TAGREFS="LT596"
+                    BASELINE="93 605 3470 562" 
+                    HPOS="85"
+                    VPOS="504"
+                    WIDTH="3385"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="93 605 85 543 3458 504 3470 562 3466 590 93 629"/></Shape>
+	    <String CONTENT="la piece sur laquelle l&#39;alidade est ajusté et qui s&#39;arreste par un vis sur la boete de la poupée (EF).  la Poupée (G) est [[forance?]] sur la piece (GIH) dout la branche (HI)"
+                    HPOS="85"
+                    VPOS="504"
+                    WIDTH="3385"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_affd6188"
+                    TAGREFS="LT596"
+                    BASELINE="93 668 3395 621" 
+                    HPOS="85"
+                    VPOS="566"
+                    WIDTH="3310"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="93 668 85 613 3384 566 3395 621 3391 644 93 695"/></Shape>
+	    <String CONTENT="sert à recessoir la boite de la poupée (EF), et celle du support (L). dout la plaque (e) passe aupres du pignon, pour soute nir l&#39;axe atiu que la lime [[se? pure?]] le faire fléchir"
+                    HPOS="85"
+                    VPOS="566"
+                    WIDTH="3310"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cd4ee29c"
+                    TAGREFS="LT596"
+                    BASELINE="109 730 3430 687" 
+                    HPOS="101"
+                    VPOS="636"
+                    WIDTH="3329"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="109 730 101 672 3419 636 3430 687 3427 707 109 758"/></Shape>
+	    <String CONTENT="(MN) est le dossier ou mauche de la lime, le bout (M) du dossier [[foruce?]] une machoire deux la quelle la lime (fg) est fixée pour deux vis. le mouvement du dossier se"
+                    HPOS="101"
+                    VPOS="636"
+                    WIDTH="3329"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f60c3b2"
+                    TAGREFS="LT596"
+                    BASELINE="97 804 3462 742" 
+                    HPOS="89"
+                    VPOS="683"
+                    WIDTH="3373"
+                    HEIGHT="149">
+            <Shape><Polygon POINTS="97 804 89 734 3450 683 3462 742 3462 765 97 832"/></Shape>
+	    <String CONTENT="fait juste et librement entre huit rouleaux, dont quatre course (1,2) soutiement le dessour du plan du dossier, et quatre portés par les charges (3,4) continuent les cotés"
+                    HPOS="89"
+                    VPOS="683"
+                    WIDTH="3373"
+                    HEIGHT="149"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_489103bd"
+                    TAGREFS="LT596"
+                    BASELINE="97 871 2848 820" 
+                    HPOS="89"
+                    VPOS="761"
+                    WIDTH="2759"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="97 871 89 816 2836 761 2848 820 2844 851 97 902"/></Shape>
+	    <String CONTENT="les derniers se [[mauvent? un?]] coulisse par les vis de rapel dont ou voit le tetes (5,6) elles servant à [[douner? au? a? oter?]] du jeu au dossier."
+                    HPOS="89"
+                    VPOS="761"
+                    WIDTH="2759"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8af2e937"
+                    TAGREFS="LT596"
+                    BASELINE="97 933 3415 890" 
+                    HPOS="89"
+                    VPOS="832"
+                    WIDTH="3326"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="97 933 89 875 3403 832 3415 890 3411 922 97 961"/></Shape>
+	    <String CONTENT="Pour regler la course du dossier se lou la longueur des limes il porte eu dessous deux talons comme (h) qui [[vieument? frapper?]] sur le maitonet (i) pour empecher"
+                    HPOS="89"
+                    VPOS="832"
+                    WIDTH="3326"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_622c60c3"
+                    TAGREFS="LT596"
+                    BASELINE="97 1004 3477 980" 
+                    HPOS="93"
+                    VPOS="898"
+                    WIDTH="3384"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="97 1004 93 929 1692 929 1711 922 1778 906 1781 906 1785 906 2215 922 2305 922 2321 922 2391 902 2395 902 2399 902 2860 918 2903 918 2926 918 3153 898 3157 898 3470 918 3477 980 3473 1019 97 1019"/></Shape>
+	    <String CONTENT="la lime de sortir du pignon.  Le mentonuet est reu du mobile le loug du chassis (OP) au moyar de la vis de rappel (7), et il est vendre fixe par la vis (8) a quel point"
+                    HPOS="93"
+                    VPOS="898"
+                    WIDTH="3384"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_553c8a20"
+                    TAGREFS="LT596"
+                    BASELINE="93 1078 3407 1070" 
+                    HPOS="89"
+                    VPOS="1000"
+                    WIDTH="3318"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="93 1078 89 1000 3399 1000 3407 1070 3399 1109 89 1101"/></Shape>
+	    <String CONTENT="du chassis ou juge a propos.  Les quatre vouleaux comme (1,2) qui [[sontiement?]] le dessous du dossier out leus chappes attachéer au chassis (OP)"
+                    HPOS="89"
+                    VPOS="1000"
+                    WIDTH="3318"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_623cd174"
+                    TAGREFS="LT596"
+                    BASELINE="97 1160 3387 1168" 
+                    HPOS="93"
+                    VPOS="1066"
+                    WIDTH="3294"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="97 1160 93 1094 1156 1066 1160 1066 1164 1066 1168 1066 1207 1094 1219 1094 1352 1070 1355 1070 1359 1070 1453 1094 1461 1094 1492 1094 1793 1074 1797 1074 1910 1094 1942 1101 2313 1101 2325 1094 2348 1078 2352 1078 2356 1078 2360 1078 2520 1094 2555 1098 2563 1094 2590 1074 2594 1074 2598 1074 2602 1074 2606 1074 2661 1094 2672 1098 2696 1094 2833 1074 2836 1074 3384 1098 3387 1168 3380 1195 93 1187"/></Shape>
+	    <String CONTENT="ainsi le dossier [[se? peut?]] monter sy desaudre, sy seufoucco plus ou moius dans let deuts du Pignons, il a doue fallu fair monter ou"
+                    HPOS="93"
+                    VPOS="1066"
+                    WIDTH="3294"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6e398df"
+                    TAGREFS="LT596"
+                    BASELINE="97 1242 3399 1262" 
+                    HPOS="93"
+                    VPOS="1164"
+                    WIDTH="3306"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="97 1242 97 1164 769 1180 1152 1164 1242 1164 1246 1164 1281 1168 1438 1183 1965 1168 2051 1168 2055 1168 2059 1168 2063 1168 2090 1187 2641 1172 2676 1172 2680 1172 2684 1172 2743 1191 3391 1176 3399 1262 3391 1293 93 1262"/></Shape>
+	    <String CONTENT="dessendre le chariot ou piece (GIH) qui porte le pignon, afiu quel puisse s&#39;approcher de la lime et que celle a pu le figureo en le limant"
+                    HPOS="93"
+                    VPOS="1164"
+                    WIDTH="3306"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_75b49102"
+                    TAGREFS="LT596"
+                    BASELINE="93 1324 3251 1340" 
+                    HPOS="91"
+                    VPOS="1242"
+                    WIDTH="3160"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="93 1324 97 1242 164 1262 3243 1262 3251 1340 3243 1375 91 1337"/></Shape>
+	    <String CONTENT="pour cet effet le bout (GQ) du chariot porte un talon our languette qui couk juste daus une rainure fornieé par les longuette (9,10)"
+                    HPOS="91"
+                    VPOS="1242"
+                    WIDTH="3160"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f57cbeef"
+                    TAGREFS="LT596"
+                    BASELINE="101 1414 2032 1414 3364 1437" 
+                    HPOS="97"
+                    VPOS="1328"
+                    WIDTH="3267"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="101 1414 97 1348 547 1328 550 1328 554 1328 609 1348 617 1348 699 1348 1297 1332 1301 1332 1305 1332 1309 1332 1336 1348 1344 1355 3360 1355 3364 1437 3356 1457 597 1430 101 1445"/></Shape>
+	    <String CONTENT="arrestier par troir vis sur le bout (OR) du chassis (OP) le chariot puit douc monter, et descendre daus cette coulisse pour le"
+                    HPOS="97"
+                    VPOS="1328"
+                    WIDTH="3267"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b515f76f"
+                    TAGREFS="LT596"
+                    BASELINE="105 1496 1422 1488" 
+                    HPOS="97"
+                    VPOS="1418"
+                    WIDTH="1325"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="105 1496 97 1430 1410 1418 1422 1488 1414 1516 171 1516 109 1535"/></Shape>
+	    <String CONTENT="faire mousoir ou resert de la vis rappel (S.)"
+                    HPOS="97"
+                    VPOS="1418"
+                    WIDTH="1325"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a93994f"
+                    TAGREFS="LT596"
+                    BASELINE="121 1586 3438 1609" 
+                    HPOS="117"
+                    VPOS="1488"
+                    WIDTH="3321"
+                    HEIGHT="149">
+            <Shape><Polygon POINTS="121 1586 121 1516 500 1516 523 1516 668 1488 672 1488 828 1516 871 1523 1227 1523 1395 1516 1559 1504 1563 1504 1566 1504 1570 1504 1582 1516 1602 1527 2110 1527 2133 1516 2149 1500 2153 1500 2157 1500 2160 1500 2164 1500 2196 1516 2231 1527 2352 1516 2446 1504 2450 1504 2454 1504 2457 1504 2469 1516 2493 1531 2563 1516 2590 1508 2594 1508 2598 1508 2602 1508 2622 1516 2680 1531 2719 1516 2735 1508 2739 1508 2743 1508 3438 1516 3438 1609 3430 1637 117 1609"/></Shape>
+	    <String CONTENT="Le chassis (OPR) est fixé par deux vis (1,n) sur la piece T du grand chassis d&#39;assemblage (TVXY) le brar (V) fixe"
+                    HPOS="117"
+                    VPOS="1488"
+                    WIDTH="3321"
+                    HEIGHT="149"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_972dc0f9"
+                    TAGREFS="LT596"
+                    BASELINE="101 1672 3368 1688" 
+                    HPOS="97"
+                    VPOS="1605"
+                    WIDTH="3271"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="101 1672 101 1605 3364 1617 3368 1688 3360 1703 97 1688"/></Shape>
+	    <String CONTENT="et vend solide le bout (P) du chassis du dossier, et celui (X) sert à fixer le bout de la branche (H) du chariot afin que"
+                    HPOS="97"
+                    VPOS="1605"
+                    WIDTH="3271"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59a509ab"
+                    TAGREFS="LT596"
+                    BASELINE="93 1766 3380 1774" 
+                    HPOS="85"
+                    VPOS="1672"
+                    WIDTH="3295"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="93 1766 93 1672 254 1676 257 1676 261 1676 293 1699 363 1676 367 1676 371 1676 562 1676 566 1676 629 1703 859 1703 926 1676 930 1676 933 1676 1066 1676 1070 1676 1074 1676 1105 1699 1187 1676 1191 1676 1195 1676 1660 1699 1719 1676 1723 1676 1727 1676 1731 1676 1801 1703 1910 1680 1914 1680 1918 1680 1973 1703 2039 1680 2043 1680 2047 1680 2172 1703 2403 1684 2407 1684 2672 1703 2762 1680 2766 1680 2770 1680 2774 1680 2856 1707 3087 1707 3192 1680 3196 1680 3200 1680 3204 1680 3298 1703 3368 1680 3380 1774 3372 1797 85 1789"/></Shape>
+	    <String CONTENT="l&#39;effort de la lime se puisse le faire fléchir, pour cet effetle bout (X) du grand chassis est fendu [[apre?]] que la branche"
+                    HPOS="85"
+                    VPOS="1672"
+                    WIDTH="3295"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d6039037"
+                    TAGREFS="LT596"
+                    BASELINE="97 1856 3344 1867" 
+                    HPOS="93"
+                    VPOS="1766"
+                    WIDTH="3251"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="97 1856 93 1785 644 1766 648 1766 648 1766 652 1766 652 1766 695 1781 711 1789 1066 1789 1078 1781 1101 1766 1105 1766 1105 1766 1109 1766 1109 1766 1109 1766 1113 1766 1113 1766 1117 1766 1117 1766 1156 1781 1184 1789 1223 1781 1262 1770 1266 1770 1266 1770 1270 1770 1270 1770 1270 1770 1273 1770 1273 1770 1297 1777 1324 1789 1676 1777 1953 1770 1957 1770 1957 1770 1961 1770 1961 1770 1961 1770 1977 1777 2000 1789 2864 1774 2981 1774 2985 1774 2985 1774 2985 1774 2989 1774 2993 1774 3051 1793 3118 1774 3118 1774 3122 1774 3122 1774 3122 1774 3126 1774 3126 1774 3133 1774 3266 1793 3333 1774 3344 1867 3341 1883 97 1891"/></Shape>
+	    <String CONTENT="qui porte la vis (Z) puisse monter, et descendre [[congenablement?]] et librement pour presenter le pignon à la lime, toruque le"
+                    HPOS="93"
+                    VPOS="1766"
+                    WIDTH="3251"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_23631576"
+                    TAGREFS="LT596"
+                    BASELINE="97 1977 3036 1961" 
+                    HPOS="93"
+                    VPOS="1871"
+                    WIDTH="2943"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="97 1977 93 1895 2289 1895 2332 1891 2618 1871 2622 1871 3028 1891 3036 1961 3036 1988 97 1992"/></Shape>
+	    <String CONTENT="chariot est à a point, ou sert la vis (Z) cette vis [[poesse daur la feute faite daus la branche (X)."
+                    HPOS="93"
+                    VPOS="1871"
+                    WIDTH="2943"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c58d051"
+                    TAGREFS="LT596"
+                    BASELINE="121 2074 3270 2067" 
+                    HPOS="117"
+                    VPOS="1973"
+                    WIDTH="3153"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="121 2074 117 1981 1254 1996 1289 1985 1312 1977 1312 1977 1316 1977 1316 1977 1320 1977 1320 1977 1406 1985 1508 1996 1524 1985 1535 1977 1539 1977 1539 1977 1539 1977 1543 1977 1543 1977 1543 1977 1547 1977 1547 1977 1613 1985 1684 1996 1711 1988 1746 1973 1746 1973 1750 1973 1750 1973 1750 1973 1754 1973 2090 1988 2196 1992 2215 1988 2289 1973 2289 1973 2289 1973 2293 1973 2293 1973 2297 1973 2360 1988 2375 1992 2493 1992 3141 1973 3145 1973 3145 1973 3262 1996 3270 2067 3266 2090 121 2106"/></Shape>
+	    <String CONTENT="(e), fig. IV, est la plaque qui es attache au support (L) fig. I. pour soutenir pignon au bout de l&#39;axe."
+                    HPOS="117"
+                    VPOS="1973"
+                    WIDTH="3153"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_012560f1"
+                    TAGREFS="LT596"
+                    BASELINE="105 2184 1019 2168 3391 2176" 
+                    HPOS="101"
+                    VPOS="2078"
+                    WIDTH="3290"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="105 2184 101 2106 578 2106 621 2078 625 2078 625 2078 629 2078 629 2078 629 2078 633 2078 633 2078 636 2078 636 2078 636 2078 640 2078 640 2078 672 2102 785 2082 785 2082 789 2082 789 2082 789 2082 793 2082 793 2082 797 2082 828 2102 879 2082 879 2082 883 2082 883 2082 887 2082 887 2082 1086 2098 1137 2078 1137 2078 1141 2078 1141 2078 1141 2078 1144 2078 1144 2078 1297 2102 1406 2078 1406 2078 1406 2078 1410 2078 1410 2078 1410 2078 1414 2078 1414 2078 1414 2078 1418 2078 1449 2102 1625 2078 1625 2078 1629 2078 1629 2078 1766 2102 1805 2078 1809 2078 1809 2078 1813 2078 1813 2078 1813 2078 1817 2078 1817 2078 1817 2078 1942 2102 2090 2078 2090 2078 2094 2078 2094 2078 2094 2078 2219 2102 2274 2078 2274 2078 2278 2078 2278 2078 2278 2078 2282 2078 2282 2078 2282 2078 2286 2078 2360 2102 2485 2078 2485 2078 2489 2078 3387 2106 3391 2176 3387 2196 105 2211"/></Shape>
+	    <String CONTENT="Ce support porte deux broches parallelles, qui eutrent daus des trour faitre daus la boete (K) et ficées chaquune"
+                    HPOS="101"
+                    VPOS="2078"
+                    WIDTH="3290"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_060731b2"
+                    TAGREFS="LT596"
+                    BASELINE="105 2270 3419 2250" 
+                    HPOS="62"
+                    VPOS="2164"
+                    WIDTH="3359"
+                    HEIGHT="156">
+            <Shape><Polygon POINTS="105 2270 97 2207 492 2180 496 2180 695 2199 730 2199 746 2196 832 2176 836 2176 840 2176 1211 2192 1348 2196 1371 2188 1422 2172 1426 2172 1430 2172 1434 2172 1473 2188 1484 2192 1504 2188 1574 2172 1578 2172 1813 2184 1989 2192 2035 2180 2086 2168 2090 2168 2094 2168 2157 2180 2207 2192 2454 2192 2481 2176 2489 2168 2493 2168 2497 2168 2500 2168 2504 2168 2520 2176 2555 2188 2618 2172 2645 2168 2649 2168 2743 2172 2977 2184 3016 2168 3028 2164 3032 2164 3036 2164 3102 2168 3348 2184 3403 2164 3419 2250 3421 2280 62 2320"/></Shape>
+	    <String CONTENT="par une vis (f) ou se voit ici queure de broche (L).  Les vis (n et o) servant à fixer, l&#39;une (n) la boete (E) de la poupée"
+                    HPOS="62"
+                    VPOS="2164"
+                    WIDTH="3359"
+                    HEIGHT="156"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b38d0d16"
+                    TAGREFS="LT596"
+                    BASELINE="105 2360 1172 2348" 
+                    HPOS="97"
+                    VPOS="2266"
+                    WIDTH="1075"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="105 2360 97 2274 234 2270 238 2270 238 2270 242 2270 242 2270 242 2270 246 2270 246 2270 250 2274 273 2293 296 2274 296 2274 300 2274 300 2274 300 2274 304 2274 304 2274 304 2274 308 2274 355 2274 554 2289 566 2278 578 2270 578 2266 578 2266 582 2266 582 2266 582 2266 586 2266 586 2266 590 2266 590 2266 590 2266 593 2266 593 2266 593 2266 621 2278 629 2285 636 2281 656 2266 660 2266 660 2266 660 2266 664 2266 664 2266 668 2266 668 2266 668 2266 754 2281 797 2289 808 2281 824 2266 824 2266 824 2266 828 2266 828 2266 832 2266 832 2266 832 2266 836 2266 836 2266 836 2266 840 2266 840 2266 840 2266 844 2266 844 2266 863 2281 867 2289 1164 2289 1172 2348 1172 2371 105 2395"/></Shape>
+	    <String CONTENT="(EF), et l&#39;autre la boete du support."
+                    HPOS="97"
+                    VPOS="2266"
+                    WIDTH="1075"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc92b1d3"
+                    TAGREFS="LT596"
+                    BASELINE="117 2450 3329 2457" 
+                    HPOS="113"
+                    VPOS="2352"
+                    WIDTH="3216"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="117 2450 113 2371 277 2352 277 2352 281 2352 281 2352 281 2352 285 2352 285 2352 289 2352 316 2367 332 2379 695 2379 730 2367 777 2356 781 2356 781 2356 785 2356 785 2356 875 2367 949 2375 1039 2367 1180 2352 1180 2352 1184 2352 1184 2352 1187 2352 1242 2364 1285 2375 1363 2364 1461 2352 1461 2352 1465 2352 1465 2352 1465 2352 1527 2364 1578 2375 1609 2364 1645 2352 1645 2352 1649 2352 1649 2352 1652 2352 1652 2352 1652 2352 1656 2352 1656 2352 1688 2364 1727 2379 1879 2364 1957 2356 1957 2356 1961 2356 1961 2356 2000 2364 2082 2379 2164 2364 2200 2356 2200 2356 2200 2356 2203 2356 2203 2356 2262 2364 2407 2379 2536 2360 2579 2356 2579 2356 2582 2356 2582 2356 2649 2360 2864 2379 3001 2360 3032 2356 3032 2356 3036 2356 3036 2356 3036 2356 3040 2356 3040 2356 3040 2356 3048 2360 3090 2383 3216 2383 3321 2360 3329 2457 3325 2473 3122 2496 3122 2496 3118 2496 3118 2496 3020 2477 3012 2477 2997 2477 2711 2496 2708 2496 2250 2481 2125 2477 2098 2481 2024 2496 2024 2496 2024 2496 2020 2496 2020 2496 2016 2496 2016 2496 1977 2481 1949 2473 1926 2481 1883 2496 1883 2496 1879 2496 1879 2496 1879 2500 1746 2500 1742 2496 1742 2496 1738 2496 1738 2496 1738 2496 1735 2496 1715 2481 1699 2473 1613 2485 1531 2492 1531 2492 1527 2492 1527 2492 1527 2492 1481 2485 1410 2469 117 2489"/></Shape>
+	    <String CONTENT="(M) fig. III. est le boute du mauche dun dessier de lime que l&#39;ou employe l&#39;orequon doit arroundir des roues plus grandes que ne le"
+                    HPOS="113"
+                    VPOS="2352"
+                    WIDTH="3216"
+                    HEIGHT="148"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4da58a4c"
+                    TAGREFS="LT596"
+                    BASELINE="113 2555 1203 2547" 
+                    HPOS="109"
+                    VPOS="2457"
+                    WIDTH="1094"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="113 2555 109 2481 308 2481 312 2481 351 2461 351 2461 351 2461 355 2461 355 2461 359 2461 359 2461 359 2461 363 2461 363 2461 363 2461 367 2461 367 2461 386 2481 390 2485 574 2485 578 2481 617 2461 617 2461 617 2461 621 2461 621 2461 625 2461 625 2461 625 2461 629 2461 629 2461 629 2461 633 2461 633 2461 652 2481 695 2457 695 2457 695 2457 699 2457 699 2457 699 2457 703 2457 703 2457 707 2457 707 2457 762 2477 1152 2457 1156 2457 1156 2457 1156 2457 1160 2457 1160 2457 1164 2457 1203 2481 1203 2547 1199 2571 113 2586"/></Shape>
+	    <String CONTENT="pevant la course du chariot (GIH)."
+                    HPOS="109"
+                    VPOS="2457"
+                    WIDTH="1094"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_723ab475"
+                    TAGREFS="LT596"
+                    BASELINE="125 2645 3395 2637" 
+                    HPOS="113"
+                    VPOS="2551"
+                    WIDTH="3282"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="125 2645 113 2582 171 2555 171 2555 175 2555 175 2555 175 2555 179 2555 179 2555 179 2555 183 2555 246 2575 277 2555 281 2555 281 2555 281 2555 285 2555 285 2555 289 2555 867 2555 867 2555 867 2555 871 2555 871 2555 871 2555 914 2575 1559 2555 1563 2555 1563 2555 1563 2555 1566 2555 1629 2575 1942 2551 1942 2551 1946 2551 2254 2575 3075 2575 3169 2551 3169 2551 3169 2551 3173 2551 3173 2551 3387 2575 3395 2637 3387 2676 121 2664"/></Shape>
+	    <String CONTENT="La figurer VII fait voir enplace la machine représentée enprofil par la fig. I.. le dossier est réparé de sou chariot pour laisser voir"
+                    HPOS="113"
+                    VPOS="2551"
+                    WIDTH="3282"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1040ded5"
+                    TAGREFS="LT596"
+                    BASELINE="105 2711 3434 2719" 
+                    HPOS="105"
+                    VPOS="2661"
+                    WIDTH="3333"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="105 2674 124 2661 3438 2673 3434 2721 3434 2729 105 2746"/></Shape>
+	    <String CONTENT="ladsiposition des roubaux.  (AQ) est le diviseur, (a) le pignon, (b) le bout de l&#39;ali dade, (B et C) les Poupée portant les broche (1,2,) qui routicuent la"
+                    HPOS="105"
+                    VPOS="2661"
+                    WIDTH="3333"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c2e14643"
+                    TAGREFS="LT596"
+                    BASELINE="109 2793 3302 2786" 
+                    HPOS="101"
+                    VPOS="2727"
+                    WIDTH="3201"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="109 2793 101 2735 3290 2727 3302 2786 3294 2821 105 2813"/></Shape>
+	    <String CONTENT="l&#39;darc du diviseur, (3.4.5.6) rout les vouleaux qui routiement la bare du du dossier, (i,l,m,n) leuer chapes, (7,8,9,10) sout les quatre"
+                    HPOS="101"
+                    VPOS="2727"
+                    WIDTH="3201"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58aaf30a"
+                    TAGREFS="LT596"
+                    BASELINE="105 2856 3360 2868" 
+                    HPOS="97"
+                    VPOS="2778"
+                    WIDTH="3263"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="105 2856 109 2778 152 2801 3356 2801 3360 2868 3352 2887 97 2872"/></Shape>
+	    <String CONTENT="vouloealux qui maintiement les cotés du dossier, (H,H,H,H) leuvs chapes arrestees par des vis (c,o,o,o.) dessuo le chassis (IK).  (P) est"
+                    HPOS="97"
+                    VPOS="2778"
+                    WIDTH="3263"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0dc71bfe"
+                    TAGREFS="LT596"
+                    BASELINE="109 2942 3329 2930" 
+                    HPOS="105"
+                    VPOS="2868"
+                    WIDTH="3224"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="109 2942 105 2868 3321 2868 3329 2930 3325 2961 109 2969"/></Shape>
+	    <String CONTENT="la vis de rapel qui fait mouvoir le mentonet (L) qui borne la course du dossier.  (M) est un foot bras du chassis (iK) qui sert"
+                    HPOS="105"
+                    VPOS="2868"
+                    WIDTH="3224"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_705d5dee"
+                    TAGREFS="LT596"
+                    BASELINE="109 3016 3341 3008" 
+                    HPOS="101"
+                    VPOS="2934"
+                    WIDTH="3240"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="109 3016 101 2942 3329 2934 3341 3008 3333 3043 105 3036"/></Shape>
+	    <String CONTENT="à attacher l&#39;outil à l&#39;etau.  (NO) est le bout du grand support ou chassis dont le bout (o) routient le bout (P) de"
+                    HPOS="101"
+                    VPOS="2934"
+                    WIDTH="3240"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6f05ae13"
+                    TAGREFS="LT596"
+                    BASELINE="113 3094 2172 3079" 
+                    HPOS="105"
+                    VPOS="3020"
+                    WIDTH="2067"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="113 3094 105 3032 2160 3020 2172 3079 2168 3098 113 3126"/></Shape>
+	    <String CONTENT="la branche du chariot, (Q) est la vis que arrete ensemble as deux pieces."
+                    HPOS="105"
+                    VPOS="3020"
+                    WIDTH="2067"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_96bf1096"
+                    TAGREFS="LT596"
+                    BASELINE="117 3172 3372 3153" 
+                    HPOS="109"
+                    VPOS="3063"
+                    WIDTH="3263"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="117 3172 109 3110 242 3079 242 3079 242 3079 246 3079 707 3102 758 3102 797 3098 1062 3075 1066 3075 1066 3075 1266 3094 1316 3098 1336 3094 1383 3079 1387 3079 1387 3079 1387 3079 1391 3079 1391 3079 1391 3079 1453 3090 1469 3094 1473 3090 1500 3071 1504 3071 1504 3071 1504 3071 1508 3071 1508 3071 1508 3071 1512 3071 1512 3071 1621 3090 1652 3094 1672 3090 1727 3071 1731 3071 1731 3071 1731 3071 1735 3071 1735 3071 1735 3071 1738 3071 1738 3071 1742 3071 1770 3086 1781 3094 1809 3086 1856 3075 1860 3075 1860 3075 1863 3075 1863 3075 1973 3086 2059 3094 2082 3083 2125 3067 2125 3067 2129 3067 2129 3067 2129 3067 2133 3067 2133 3067 2239 3083 2270 3086 2293 3083 2348 3067 2352 3067 2352 3067 2356 3067 2356 3067 2356 3067 2360 3067 2360 3067 2360 3067 2364 3067 2383 3083 2395 3090 2461 3079 2547 3067 2547 3067 2551 3067 2551 3067 2637 3079 2704 3086 2751 3075 2797 3067 2797 3067 2797 3067 2801 3067 2801 3067 2805 3067 2805 3067 2829 3075 2860 3090 3001 3090 3024 3075 3036 3063 3040 3063 3040 3063 3040 3063 3044 3063 3044 3063 3044 3063 3048 3063 3048 3063 3048 3063 3051 3063 3051 3063 3055 3063 3071 3071 3094 3086 3360 3071 3372 3153 3368 3188 769 3188 117 3211"/></Shape>
+	    <String CONTENT="La fig. VIII, est le manche ou dossier de la lime su en ploan.  (AB) est la partie qui renet entre les vouleaux.  (CD) la machoire, ou s&#39;attache la lime"
+                    HPOS="109"
+                    VPOS="3063"
+                    WIDTH="3263"
+                    HEIGHT="148"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e61fb1d8"
+                    TAGREFS="LT596"
+                    BASELINE="113 3262 3247 3247" 
+                    HPOS="105"
+                    VPOS="3168"
+                    WIDTH="3142"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="113 3262 105 3200 468 3176 472 3176 703 3192 726 3192 750 3192 945 3172 949 3172 1418 3184 1594 3188 3235 3168 3247 3247 3243 3278 113 3294"/></Shape>
+	    <String CONTENT="par le moyen des is depression (1,2) la vis (3) cert à maintenire les machoiver parallelles pour la lime soit arretée par tous ser points.  la"
+                    HPOS="105"
+                    VPOS="3168"
+                    WIDTH="3142"
+                    HEIGHT="126"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d146471"
+                    TAGREFS="LT596"
+                    BASELINE="121 3340 3309 3325" 
+                    HPOS="113"
+                    VPOS="3243"
+                    WIDTH="3196"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="121 3340 113 3282 238 3254 238 3254 238 3254 242 3254 242 3254 246 3254 246 3254 246 3254 289 3274 363 3254 367 3254 367 3254 371 3254 750 3274 930 3251 930 3251 933 3251 933 3251 1070 3270 1492 3251 1496 3251 1496 3251 1496 3251 1500 3251 1500 3251 1547 3270 1586 3251 1586 3251 1586 3251 1590 3251 1590 3251 1594 3251 2258 3266 2508 3243 2508 3243 2512 3243 2512 3243 2516 3243 2598 3266 3036 3266 3063 3243 3063 3243 3067 3243 3067 3243 3067 3243 3071 3243 3071 3243 3075 3243 3075 3243 3302 3266 3309 3325 3305 3360 121 3368"/></Shape>
+	    <String CONTENT="machoire (CD) rattachu par la vis (a) daus une fente faite daus la piece (EE) qui est faite en queue [[?roude?]] pour entrer deus la coulisse"
+                    HPOS="113"
+                    VPOS="3243"
+                    WIDTH="3196"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3357dba0"
+                    TAGREFS="LT596"
+                    BASELINE="117 3422 3333 3411" 
+                    HPOS="109"
+                    VPOS="3344"
+                    WIDTH="3224"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="117 3422 109 3348 3321 3344 3333 3411 3325 3450 2278 3434 836 3458 832 3458 199 3442 121 3462"/></Shape>
+	    <String CONTENT="(FG), peut par ce  moyen fair mousoir la machoire et [[la liuce?]]] parallellement à elle [[ause?]], avec lovir de rappel (bc)"
+                    HPOS="109"
+                    VPOS="3344"
+                    WIDTH="3224"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f3cb2d40"
+                    TAGREFS="LT596"
+                    BASELINE="128 3489 1820 3497" 
+                    HPOS="125"
+                    VPOS="3430"
+                    WIDTH="1695"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="128 3489 128 3430 1817 3438 1820 3497 1817 3516 125 3520"/></Shape>
+	    <String CONTENT="La fugure IV représente le support de l&#39;axe pour un pignon."
+                    HPOS="125"
+                    VPOS="3430"
+                    WIDTH="1695"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f33ae4ad"
+                    TAGREFS="LT596"
+                    BASELINE="128 3571 1985 3555 3387 3567" 
+                    HPOS="117"
+                    VPOS="3477"
+                    WIDTH="3270"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="128 3571 117 3512 203 3481 207 3481 207 3481 207 3481 211 3481 211 3481 398 3505 640 3485 644 3485 644 3485 836 3505 890 3481 890 3481 894 3481 894 3481 894 3481 898 3481 898 3481 898 3481 902 3481 902 3481 906 3481 949 3508 1566 3508 1594 3485 1594 3485 1598 3485 1598 3485 1598 3485 1602 3485 1602 3485 1606 3485 1606 3485 1606 3485 1711 3505 1969 3477 1969 3477 1973 3477 1973 3477 1977 3477 1977 3477 2032 3501 2082 3477 2082 3477 2082 3477 2086 3477 2086 3477 2090 3477 2090 3477 2332 3501 3266 3477 3270 3477 3270 3477 3270 3477 3384 3505 3387 3567 3384 3583 128 3594"/></Shape>
+	    <String CONTENT="L&#39;Outil a arrounir les deus ses pignons, sert egalement à arrondir celles des roues, au support présqui est differsents pour"
+                    HPOS="117"
+                    VPOS="3477"
+                    WIDTH="3270"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d861d8d6"
+                    TAGREFS="LT596"
+                    BASELINE="125 3626 3344 3645" 
+                    HPOS="121"
+                    VPOS="3563"
+                    WIDTH="3223"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="125 3626 125 3563 3341 3571 3344 3645 3337 3661 121 3657"/></Shape>
+	    <String CONTENT="a de mluir l equipage du divi [[?]], ou se wateute de les avoudir à les vendre plus juster que se les a [[rettendus?]]"
+                    HPOS="121"
+                    VPOS="3563"
+                    WIDTH="3223"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa5a865b"
+                    TAGREFS="LT596"
+                    BASELINE="125 3692 3423 3723" 
+                    HPOS="121"
+                    VPOS="3618"
+                    WIDTH="3302"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="125 3692 125 3618 2602 3657 3415 3645 3423 3723 3415 3751 121 3731"/></Shape>
+	    <String CONTENT="la machine propre à u las, pareequin effet les roue se reffendent bias plus juste que les pignons, la lime [[?]] quii entrent juste [[?]] dents de la"
+                    HPOS="121"
+                    VPOS="3618"
+                    WIDTH="3302"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d267978c"
+                    TAGREFS="LT596"
+                    BASELINE="121 3778 3380 3813" 
+                    HPOS="113"
+                    VPOS="3719"
+                    WIDTH="3267"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="121 3778 121 3719 3376 3751 3380 3813 3376 3833 1570 3837 1566 3837 1566 3837 1563 3837 1477 3817 203 3821 199 3821 199 3821 195 3821 113 3798"/></Shape>
+	    <String CONTENT="roue la contient, et le [[?mi q b?]] des deux cotés.  pour avandire les deutr des voues , il faut routiner [[?]] arc atinque les pivots [[?]] soient point fatiques"
+                    HPOS="113"
+                    VPOS="3719"
+                    WIDTH="3267"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d471f85"
+                    TAGREFS="LT596"
+                    BASELINE="121 3864 3450 3919" 
+                    HPOS="113"
+                    VPOS="3782"
+                    WIDTH="3337"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="121 3864 121 3782 918 3809 980 3798 1051 3786 1051 3786 1051 3786 1055 3786 1055 3786 1058 3786 1058 3786 1058 3786 1062 3786 1082 3801 1109 3813 1320 3805 1453 3801 1457 3801 1457 3801 1508 3809 1578 3821 1664 3813 1805 3798 1805 3798 1809 3798 1809 3798 1813 3798 1813 3798 1813 3798 1852 3817 1871 3825 1903 3817 1977 3801 1977 3801 1977 3801 1981 3801 2262 3825 2321 3829 2344 3829 2457 3809 2457 3809 2461 3809 2461 3809 2637 3833 2672 3837 2684 3833 2751 3813 2754 3813 2754 3813 2754 3813 2758 3813 2758 3813 2762 3813 2762 3813 2829 3837 2833 3837 2833 3837 2930 3817 2930 3817 2930 3817 2934 3817 2934 3817 2934 3817 2938 3817 2938 3817 2989 3841 3001 3844 3024 3841 3137 3821 3137 3821 3141 3821 3141 3821 3141 3821 3145 3821 3145 3821 3149 3821 3188 3844 3192 3848 3446 3852 3450 3919 3442 3934 113 3891"/></Shape>
+	    <String CONTENT="[[cest?]]l&#39;officedre support que vour allour decriu. ce support dont unpechio le vouede flichio sous leffort de la lime, il a doue fallu faire [[mouvoir?]]"
+                    HPOS="113"
+                    VPOS="3782"
+                    WIDTH="3337"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad8b5eb5"
+                    TAGREFS="LT596"
+                    BASELINE="125 3938 3438 3993" 
+                    HPOS="121"
+                    VPOS="3872"
+                    WIDTH="3317"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="125 3938 125 3872 3434 3934 3438 3993 3430 4020 121 3962"/></Shape>
+	    <String CONTENT="la roue daus une esper de macnine, asser justement prise pour [[?]] plier, mais [[?asser]] pour linyre diev de tourner, tet est"
+                    HPOS="121"
+                    VPOS="3872"
+                    WIDTH="3317"
+                    HEIGHT="148"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_96c0dfa1"
+                    TAGREFS="LT596"
+                    BASELINE="125 4001 3454 4087" 
+                    HPOS="121"
+                    VPOS="3938"
+                    WIDTH="3333"
+                    HEIGHT="164">
+            <Shape><Polygon POINTS="125 4001 125 3938 1238 3970 1352 3958 1461 3950 1461 3950 1465 3950 1465 3950 1469 3950 1469 3950 1500 3962 1535 3977 1637 3966 1703 3958 1703 3958 1707 3958 1707 3958 1711 3958 1711 3958 1735 3966 1774 3981 1860 3970 1918 3962 1918 3962 1922 3962 1922 3962 1922 3962 1926 3962 1926 3962 1946 3970 1985 3989 2020 3973 2035 3966 2035 3966 2035 3966 2039 3966 2039 3966 2043 3966 2043 3966 2043 3966 2047 3966 2071 3973 2110 3985 2180 3973 2227 3970 2227 3970 2231 3970 2231 3970 2231 3970 2235 3970 2235 3970 2250 3977 2297 3997 2348 3981 2352 3981 2352 3981 2352 3981 2356 3981 2356 3981 2485 4001 2790 3985 2852 3985 2856 3985 2856 3985 2856 3985 2879 3989 2993 4013 3071 3993 3071 3993 3075 3993 3075 3993 3079 3993 3079 3993 3090 3993 3333 4016 3450 4001 3454 4087 3446 4102 121 4024"/></Shape>
+	    <String CONTENT="le support vu un plan par la fig. VI, et de profil par la figure (V.), (A) est le supportqui routtent la tige, et (BO)d la machine"
+                    HPOS="121"
+                    VPOS="3938"
+                    WIDTH="3333"
+                    HEIGHT="164"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88159f4f"
+                    TAGREFS="LT596"
+                    BASELINE="121 4075 2708 4138 3450 4138" 
+                    HPOS="113"
+                    VPOS="4016"
+                    WIDTH="3337"
+                    HEIGHT="145">
+            <Shape><Polygon POINTS="121 4075 121 4016 3446 4075 3450 4138 3442 4161 113 4102"/></Shape>
+	    <String CONTENT="entre la quelle au fasse que touher la roue. La piece (B) est une plaque que l&#39;on fait approcher au moyen de la boete du support"
+                    HPOS="113"
+                    VPOS="4016"
+                    WIDTH="3337"
+                    HEIGHT="145"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be864fae"
+                    TAGREFS="LT596"
+                    BASELINE="125 4141 3462 4208" 
+                    HPOS="121"
+                    VPOS="4075"
+                    WIDTH="3341"
+                    HEIGHT="160">
+            <Shape><Polygon POINTS="125 4141 125 4075 1144 4106 1254 4095 1281 4091 1281 4091 1285 4091 1285 4091 1285 4091 1289 4091 1289 4091 1297 4095 1336 4110 1418 4095 1434 4095 1434 4095 1438 4095 1438 4095 1438 4095 1453 4095 1535 4114 2184 4110 2286 4110 2289 4110 2321 4110 2547 4134 2618 4118 2618 4118 2622 4118 2622 4118 2625 4118 2625 4118 2625 4118 2629 4118 2719 4138 3454 4134 3462 4208 3454 4235 121 4161"/></Shape>
+	    <String CONTENT="jusqua ce quelle ne fasse que toucher la roue et la placque da cier (O) porte deux broches comme (ab) que lan fait mouroir de (OunB)"
+                    HPOS="121"
+                    VPOS="4075"
+                    WIDTH="3341"
+                    HEIGHT="160"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_228fa929"
+                    TAGREFS="LT596"
+                    BASELINE="125 4204 3450 4274" 
+                    HPOS="121"
+                    VPOS="4134"
+                    WIDTH="3329"
+                    HEIGHT="160">
+            <Shape><Polygon POINTS="125 4204 125 4134 3446 4212 3450 4274 3442 4294 121 4220"/></Shape>
+	    <String CONTENT="[[jurquir?]] ce que la placque (O) touche la roue legerement alour ou sert les vir de pression (C) la placque (B) fig VI, est fendue pour le pasage"
+                    HPOS="121"
+                    VPOS="4134"
+                    WIDTH="3329"
+                    HEIGHT="160"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab03b96b"
+                    TAGREFS="LT596"
+                    BASELINE="117 4251 2555 4313" 
+                    HPOS="109"
+                    VPOS="4188"
+                    WIDTH="2446"
+                    HEIGHT="145">
+            <Shape><Polygon POINTS="117 4251 117 4188 2551 4251 2555 4313 2547 4333 109 4282"/></Shape>
+	    <String CONTENT="de la tige de roue (1 et 2) sout les broches du support qui autrent daus la boetr (K) la support fig. I."
+                    HPOS="109"
+                    VPOS="4188"
+                    WIDTH="2446"
+                    HEIGHT="145"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c8ec16a"
+                    TAGREFS="LT596"
+                    BASELINE="125 4325 3458 4403" 
+                    HPOS="121"
+                    VPOS="4243"
+                    WIDTH="3337"
+                    HEIGHT="199">
+            <Shape><Polygon POINTS="125 4325 121 4263 230 4243 230 4243 230 4243 234 4243 547 4270 633 4274 742 4274 1101 4263 1105 4263 1105 4263 1238 4282 1297 4290 1348 4282 1418 4274 1418 4274 1422 4274 1422 4274 1422 4274 1426 4274 1426 4274 1426 4274 1449 4286 1469 4298 3458 4325 3458 4403 3450 4442 1637 4407 1637 4407 1375 4384 1285 4376 1258 4380 1184 4395 1184 4395 1184 4395 1180 4395 1180 4395 996 4372 957 4368 933 4372 824 4388 824 4388 820 4388 820 4388 629 4360 613 4360 597 4360 465 4380 465 4380 461 4380 461 4380 461 4380 339 4356 300 4376 300 4376 300 4376 296 4376 296 4376 296 4376 293 4376 293 4376 121 4345"/></Shape>
+	    <String CONTENT="Le support qui sert aurroues pout [[s&#39;elerer?]] par les broches, et par les placques mẽnes  (d,e) attaches lime sau l&#39;antre par deux vis"
+                    HPOS="121"
+                    VPOS="4243"
+                    WIDTH="3337"
+                    HEIGHT="199"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a66b53b4"
+                    TAGREFS="LT596"
+                    BASELINE="121 4407 1484 4435" 
+                    HPOS="113"
+                    VPOS="4329"
+                    WIDTH="1379"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="121 4407 121 4345 437 4349 437 4349 500 4329 504 4329 504 4329 504 4329 508 4329 508 4329 508 4329 511 4329 511 4329 511 4329 515 4329 547 4352 547 4352 550 4352 609 4333 613 4333 613 4333 613 4333 617 4333 617 4333 777 4356 781 4356 785 4356 894 4337 894 4337 898 4337 898 4337 898 4337 902 4337 902 4337 961 4360 961 4360 961 4360 1090 4341 1090 4341 1094 4341 1094 4341 1094 4341 1098 4341 1098 4341 1152 4364 1152 4364 1156 4364 1449 4349 1453 4349 1453 4349 1453 4349 1457 4349 1457 4349 1461 4349 1461 4349 1492 4372 1484 4435 1477 4450 113 4438"/></Shape>
+	    <String CONTENT="que servantales fisier à quelle hauteur ou rent."
+                    HPOS="113"
+                    VPOS="4329"
+                    WIDTH="1379"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1434"
+                   VPOS="0"
+                   WIDTH="261"
+                   HEIGHT="136"
+                   ID="eSc_textblock_c560f294"
+                   TAGREFS="BT1762">
+          <Shape><Polygon POINTS="1664 0 1695 105 1449 136 1434 3"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_555c8888"
+                    TAGREFS="LT596"
+                    BASELINE="1449 101 1664 89" 
+                    HPOS="1438"
+                    VPOS="7"
+                    WIDTH="226"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="1449 101 1438 11 1652 7 1664 89 1660 132 1445 128"/></Shape>
+	    <String CONTENT="127"
+                    HPOS="1438"
+                    VPOS="7"
+                    WIDTH="226"
+                    HEIGHT="125"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
