@@ -42,7 +42,7 @@
                     WIDTH="2497"
                     HEIGHT="106">
             <Shape><Polygon POINTS="320 261 316 199 2809 179 2813 261 2813 277 320 285"/></Shape>
-	    <String CONTENT="Description d&#39;une machine pour arrondire les [[dents]] des roues et à Egaliser les ailes des pignons."
+	    <String CONTENT="Description d&#39;une machine pour arrondire les dents des roues et à Egaliser les ailes des pignons."
                     HPOS="316"
                     VPOS="179"
                     WIDTH="2497"
@@ -76,7 +76,7 @@
                     WIDTH="3356"
                     HEIGHT="125">
             <Shape><Polygon POINTS="89 367 74 304 105 281 109 281 113 281 117 281 222 304 781 304 922 304 926 300 1051 277 1055 277 1754 296 1758 296 1789 273 1793 273 1797 273 1801 273 1903 293 2141 273 2145 273 2602 293 2606 293 2653 269 2657 269 2661 269 2665 269 2708 293 3176 293 3204 269 3208 269 3212 269 3216 269 3407 293 3430 363 3427 382 89 394"/></Shape>
-	    <String CONTENT="Le Pignons restendu sur la machine à restendre n&#39;a pu qu&#39;être ébauché, le fond des dents est resté creux a cause de la courbure de la fraise, les dents sont quarrés et quelques fois inégales"
+	    <String CONTENT="Le Pignon rettendu sur la machine à rettendre n&#39;a pu qu&#39;être ébauché, le fond des dents est resté creux a cause de la courbure de la fraise, les dents sont quarrés et quelques fois inégales"
                     HPOS="74"
                     VPOS="269"
                     WIDTH="3356"
@@ -93,7 +93,7 @@
                     WIDTH="3334"
                     HEIGHT="94">
             <Shape><Polygon POINTS="101 422 93 367 3415 351 3427 406 3423 433 101 445"/></Shape>
-	    <String CONTENT="cette machine sert a les arrondir (a) est le pignon en question, on le fait entrer à force sur l&#39;arbre du diviseur (A) la fig.II. fait voir le plan ce diviseur, il est attaché par deux"
+	    <String CONTENT="cette machine sert à les arrondir (a) est le pignon en question, on le fait entrer à force sur l&#39;arbre du diviseur (A) la fig.II. fait voir le plan ce diviseur, il est attaché par deux"
                     HPOS="93"
                     VPOS="351"
                     WIDTH="3334"
@@ -110,7 +110,7 @@
                     WIDTH="3298"
                     HEIGHT="106">
             <Shape><Polygon POINTS="101 480 93 422 3380 398 3391 453 3387 480 101 504"/></Shape>
-	    <String CONTENT="vis à l&#39;[[assiete]] (b) chassée à force sur l&#39;arbre (a). (B) est une vis de rappel qui fait mouvoir une alidade qui porte un talon (D), fig II, qui entre dans les [[dens]] du diviseur"
+	    <String CONTENT="vis à l&#39;[[assiete]] (b) chassée à force sur l&#39;arbre (a). (B) est une vis de rappel qui fait mouvoir une alidade qui porte un talon (D), fig II, qui entre dans les dens du diviseur"
                     HPOS="93"
                     VPOS="398"
                     WIDTH="3298"
@@ -144,7 +144,7 @@
                     WIDTH="3385"
                     HEIGHT="125">
             <Shape><Polygon POINTS="93 605 85 543 3458 504 3470 562 3466 590 93 629"/></Shape>
-	    <String CONTENT="(E) la piece surlaquelle l&#39;alidade est ajusté et qui s&#39;arreste par un vis sur la boete de la poupée (EF).  la Poupée (G) est [[formée]] sur la piece (GIH) dont la branche (HI)"
+	    <String CONTENT="(E) la piece sur laquelle l&#39;alidade est ajusté et qui s&#39;arreste par un vis sur la boete de la poupée (EF).  la Poupée (G) est formée sur la piece (GIH) dont la branche (HI)"
                     HPOS="85"
                     VPOS="504"
                     WIDTH="3385"
@@ -246,7 +246,7 @@
                     WIDTH="3384"
                     HEIGHT="121">
             <Shape><Polygon POINTS="97 1004 93 929 1692 929 1711 922 1778 906 1781 906 1785 906 2215 922 2305 922 2321 922 2391 902 2395 902 2399 902 2860 918 2903 918 2926 918 3153 898 3157 898 3470 918 3477 980 3473 1019 97 1019"/></Shape>
-	    <String CONTENT="la lime de sortir du pignon.  Le mentonuet est rendu mobile le long du chassis (OP) au moyens de la vis de rappel (7), et il est rendu fixe par la vis (8) a quel point"
+	    <String CONTENT="la lime de sortir du pignon.  Le mentonuet est rendu mobile le long du chassis (OP) au moyens de la vis de rappel (7), et il est rendu fixe par la vis (8) à quel point"
                     HPOS="93"
                     VPOS="898"
                     WIDTH="3384"
@@ -331,7 +331,7 @@
                     WIDTH="3267"
                     HEIGHT="129">
             <Shape><Polygon POINTS="101 1414 97 1348 547 1328 550 1328 554 1328 609 1348 617 1348 699 1348 1297 1332 1301 1332 1305 1332 1309 1332 1336 1348 1344 1355 3360 1355 3364 1437 3356 1457 597 1430 101 1445"/></Shape>
-	    <String CONTENT="arrestées par trois vis sur le bout (OR) du chassis (OP) le chariot peut donc monter, et descendre daus cette coulisse pour le"
+	    <String CONTENT="arrestées par trois vis sur le bout (OR) du chassis (OP) le chariot peut donc monter, et descendre dans cette coulisse pour le"
                     HPOS="97"
                     VPOS="1328"
                     WIDTH="3267"
@@ -416,7 +416,7 @@
                     WIDTH="3251"
                     HEIGHT="125">
             <Shape><Polygon POINTS="97 1856 93 1785 644 1766 648 1766 648 1766 652 1766 652 1766 695 1781 711 1789 1066 1789 1078 1781 1101 1766 1105 1766 1105 1766 1109 1766 1109 1766 1109 1766 1113 1766 1113 1766 1117 1766 1117 1766 1156 1781 1184 1789 1223 1781 1262 1770 1266 1770 1266 1770 1270 1770 1270 1770 1270 1770 1273 1770 1273 1770 1297 1777 1324 1789 1676 1777 1953 1770 1957 1770 1957 1770 1961 1770 1961 1770 1961 1770 1977 1777 2000 1789 2864 1774 2981 1774 2985 1774 2985 1774 2985 1774 2989 1774 2993 1774 3051 1793 3118 1774 3118 1774 3122 1774 3122 1774 3122 1774 3126 1774 3126 1774 3133 1774 3266 1793 3333 1774 3344 1867 3341 1883 97 1891"/></Shape>
-	    <String CONTENT="qui porte la vis (Z) puisse monter, et descendre convenablement et librement pour présenter le pignon à la lime, lorsque le"
+	    <String CONTENT="qui porte la vis (Z) puisse monter, et descendre convenablement, et librement pour présenter le pignon à la lime, lorsque le"
                     HPOS="93"
                     VPOS="1766"
                     WIDTH="3251"
@@ -467,7 +467,7 @@
                     WIDTH="3290"
                     HEIGHT="133">
             <Shape><Polygon POINTS="105 2184 101 2106 578 2106 621 2078 625 2078 625 2078 629 2078 629 2078 629 2078 633 2078 633 2078 636 2078 636 2078 636 2078 640 2078 640 2078 672 2102 785 2082 785 2082 789 2082 789 2082 789 2082 793 2082 793 2082 797 2082 828 2102 879 2082 879 2082 883 2082 883 2082 887 2082 887 2082 1086 2098 1137 2078 1137 2078 1141 2078 1141 2078 1141 2078 1144 2078 1144 2078 1297 2102 1406 2078 1406 2078 1406 2078 1410 2078 1410 2078 1410 2078 1414 2078 1414 2078 1414 2078 1418 2078 1449 2102 1625 2078 1625 2078 1629 2078 1629 2078 1766 2102 1805 2078 1809 2078 1809 2078 1813 2078 1813 2078 1813 2078 1817 2078 1817 2078 1817 2078 1942 2102 2090 2078 2090 2078 2094 2078 2094 2078 2094 2078 2219 2102 2274 2078 2274 2078 2278 2078 2278 2078 2278 2078 2282 2078 2282 2078 2282 2078 2286 2078 2360 2102 2485 2078 2485 2078 2489 2078 3387 2106 3391 2176 3387 2196 105 2211"/></Shape>
-	    <String CONTENT="Ce support porte deux broches parallelles, qui entrent dans des trous faits dans la boete (K) et fixées chaquune"
+	    <String CONTENT="Ce support porte deux broches parallelles, qui entrent dans des trous faits dans la boete (K) et fixées chaqu&#39;une"
                     HPOS="101"
                     VPOS="2078"
                     WIDTH="3290"
@@ -484,7 +484,7 @@
                     WIDTH="3359"
                     HEIGHT="156">
             <Shape><Polygon POINTS="105 2270 97 2207 492 2180 496 2180 695 2199 730 2199 746 2196 832 2176 836 2176 840 2176 1211 2192 1348 2196 1371 2188 1422 2172 1426 2172 1430 2172 1434 2172 1473 2188 1484 2192 1504 2188 1574 2172 1578 2172 1813 2184 1989 2192 2035 2180 2086 2168 2090 2168 2094 2168 2157 2180 2207 2192 2454 2192 2481 2176 2489 2168 2493 2168 2497 2168 2500 2168 2504 2168 2520 2176 2555 2188 2618 2172 2645 2168 2649 2168 2743 2172 2977 2184 3016 2168 3028 2164 3032 2164 3036 2164 3102 2168 3348 2184 3403 2164 3419 2250 3421 2280 62 2320"/></Shape>
-	    <String CONTENT="par une vis (f) on ne voit ici quune des broche (L).  Les vis (n et o) servent à fixer, l&#39;une (n) la boete (E) de la poupée"
+	    <String CONTENT="par une vis (f) on ne voit ici qu&#39;une des broche (L).  Les vis (n et o) servent à fixer, l&#39;une (n) la boete (E) de la poupée"
                     HPOS="62"
                     VPOS="2164"
                     WIDTH="3359"
@@ -569,7 +569,7 @@
                     WIDTH="3333"
                     HEIGHT="85">
             <Shape><Polygon POINTS="105 2674 124 2661 3438 2673 3434 2721 3434 2729 105 2746"/></Shape>
-	    <String CONTENT="ladisposition des rouleaux. (A) est le diviseur, (a) le pignon, (b) le bout de l&#39;alidade, (B et C) les Poupées portant les broches (1,2,) qui soutiennent la"
+	    <String CONTENT="la disposition des rouleaux. (A) est le diviseur, (a) le pignon, (b) le bout de l&#39;alidade, (B et C) les Poupées portant les broches (1,2,) qui soutiennent la"
                     HPOS="105"
                     VPOS="2661"
                     WIDTH="3333"
@@ -705,7 +705,7 @@
                     WIDTH="3196"
                     HEIGHT="125">
             <Shape><Polygon POINTS="121 3340 113 3282 238 3254 238 3254 238 3254 242 3254 242 3254 246 3254 246 3254 246 3254 289 3274 363 3254 367 3254 367 3254 371 3254 750 3274 930 3251 930 3251 933 3251 933 3251 1070 3270 1492 3251 1496 3251 1496 3251 1496 3251 1500 3251 1500 3251 1547 3270 1586 3251 1586 3251 1586 3251 1590 3251 1590 3251 1594 3251 2258 3266 2508 3243 2508 3243 2512 3243 2512 3243 2516 3243 2598 3266 3036 3266 3063 3243 3063 3243 3067 3243 3067 3243 3067 3243 3071 3243 3071 3243 3075 3243 3075 3243 3302 3266 3309 3325 3305 3360 121 3368"/></Shape>
-	    <String CONTENT="machoire (CD) sattache par la vis (a) daus une fente faite dans la piece (EE) qui est faite en quelle [[ronde]] pour entrer danss la coulisse"
+	    <String CONTENT="machoire (CD) sattache par la vis (a) dans une fente faite dans la piece (EE) qui est faite en quelle [[ronde]] pour entrer dans la coulisse"
                     HPOS="113"
                     VPOS="3243"
                     WIDTH="3196"
@@ -722,7 +722,7 @@
                     WIDTH="3224"
                     HEIGHT="118">
             <Shape><Polygon POINTS="117 3422 109 3348 3321 3344 3333 3411 3325 3450 2278 3434 836 3458 832 3458 199 3442 121 3462"/></Shape>
-	    <String CONTENT="(FG), peut par ce  moyen fair mousoir la machoire et [[la liuce?]]] parallellement à elle [[ause?]], avec lovir de rappel (bc)"
+	    <String CONTENT="(FG), on peut par ce moyen fair mouvoir la machoire et la lime parallellement à elle même, avec lavis de rappel (bc)"
                     HPOS="109"
                     VPOS="3344"
                     WIDTH="3224"
@@ -739,7 +739,7 @@
                     WIDTH="1695"
                     HEIGHT="90">
             <Shape><Polygon POINTS="128 3489 128 3430 1817 3438 1820 3497 1817 3516 125 3520"/></Shape>
-	    <String CONTENT="La fugure IV représente le support de l&#39;axe pour un pignon."
+	    <String CONTENT="La figure IV représente le support de l&#39;axe pour un pignon."
                     HPOS="125"
                     VPOS="3430"
                     WIDTH="1695"
@@ -756,7 +756,7 @@
                     WIDTH="3270"
                     HEIGHT="117">
             <Shape><Polygon POINTS="128 3571 117 3512 203 3481 207 3481 207 3481 207 3481 211 3481 211 3481 398 3505 640 3485 644 3485 644 3485 836 3505 890 3481 890 3481 894 3481 894 3481 894 3481 898 3481 898 3481 898 3481 902 3481 902 3481 906 3481 949 3508 1566 3508 1594 3485 1594 3485 1598 3485 1598 3485 1598 3485 1602 3485 1602 3485 1606 3485 1606 3485 1606 3485 1711 3505 1969 3477 1969 3477 1973 3477 1973 3477 1977 3477 1977 3477 2032 3501 2082 3477 2082 3477 2082 3477 2086 3477 2086 3477 2090 3477 2090 3477 2332 3501 3266 3477 3270 3477 3270 3477 3270 3477 3384 3505 3387 3567 3384 3583 128 3594"/></Shape>
-	    <String CONTENT="L&#39;Outil a arrounir les deus ses pignons, sert egalement à arrondir celles des roues, au support présqui est differsents pour"
+	    <String CONTENT="L&#39;Outil à arrondir les deux des pignons, sert egalement à arrondir celles des roues, au support près qui est différents pour"
                     HPOS="117"
                     VPOS="3477"
                     WIDTH="3270"
@@ -773,7 +773,7 @@
                     WIDTH="3223"
                     HEIGHT="98">
             <Shape><Polygon POINTS="125 3626 125 3563 3341 3571 3344 3645 3337 3661 121 3657"/></Shape>
-	    <String CONTENT="a de mluir l equipage du divi [[?]], ou se wateute de les avoudir à les vendre plus juster que se les a [[rettendus?]]"
+	    <String CONTENT="il a de moins l&#39;équipage du diviseur, on se contente de les arrondir sans chercher à les rendre plus justes que ne les a rettendus"
                     HPOS="121"
                     VPOS="3563"
                     WIDTH="3223"
@@ -790,7 +790,7 @@
                     WIDTH="3302"
                     HEIGHT="133">
             <Shape><Polygon POINTS="125 3692 125 3618 2602 3657 3415 3645 3423 3723 3415 3751 121 3731"/></Shape>
-	    <String CONTENT="la machine propre à u las, pareequin effet les roue se reffendent bias plus juste que les pignons, la lime [[?]] quii entrent juste [[?]] dents de la"
+	    <String CONTENT="la machine propre à cela, parcequ&#39;en effet les roue se rettendent bien plus juste que les pignons, la lime même qui entrent juste dans les dents de la"
                     HPOS="121"
                     VPOS="3618"
                     WIDTH="3302"
@@ -807,7 +807,7 @@
                     WIDTH="3267"
                     HEIGHT="118">
             <Shape><Polygon POINTS="121 3778 121 3719 3376 3751 3380 3813 3376 3833 1570 3837 1566 3837 1566 3837 1563 3837 1477 3817 203 3821 199 3821 199 3821 195 3821 113 3798"/></Shape>
-	    <String CONTENT="roue la contient, et le [[?mi q b?]] des deux cotés.  pour avandire les deutr des voues , il faut routiner [[?]] arc atinque les pivots [[?]] soient point fatiques"
+	    <String CONTENT="roue la contient, et lime également des deux cotés. pour arrondir les dents des roues , il faut soutenir leur axe afin que les pivots ne soient point fatigués"
                     HPOS="113"
                     VPOS="3719"
                     WIDTH="3267"
@@ -824,7 +824,7 @@
                     WIDTH="3337"
                     HEIGHT="152">
             <Shape><Polygon POINTS="121 3864 121 3782 918 3809 980 3798 1051 3786 1051 3786 1051 3786 1055 3786 1055 3786 1058 3786 1058 3786 1058 3786 1062 3786 1082 3801 1109 3813 1320 3805 1453 3801 1457 3801 1457 3801 1508 3809 1578 3821 1664 3813 1805 3798 1805 3798 1809 3798 1809 3798 1813 3798 1813 3798 1813 3798 1852 3817 1871 3825 1903 3817 1977 3801 1977 3801 1977 3801 1981 3801 2262 3825 2321 3829 2344 3829 2457 3809 2457 3809 2461 3809 2461 3809 2637 3833 2672 3837 2684 3833 2751 3813 2754 3813 2754 3813 2754 3813 2758 3813 2758 3813 2762 3813 2762 3813 2829 3837 2833 3837 2833 3837 2930 3817 2930 3817 2930 3817 2934 3817 2934 3817 2934 3817 2938 3817 2938 3817 2989 3841 3001 3844 3024 3841 3137 3821 3137 3821 3141 3821 3141 3821 3141 3821 3145 3821 3145 3821 3149 3821 3188 3844 3192 3848 3446 3852 3450 3919 3442 3934 113 3891"/></Shape>
-	    <String CONTENT="[[cest?]]l&#39;officedre support que vour allour decriu. ce support dont unpechio le vouede flichio sous leffort de la lime, il a doue fallu faire [[mouvoir?]]"
+	    <String CONTENT="c&#39;est l&#39;office du support que nous allons décrire. ce support doit empecher la roue de fléchir sous l&#39;effort de la lime, il a donc fallu faire mouvoir"
                     HPOS="113"
                     VPOS="3782"
                     WIDTH="3337"
@@ -841,7 +841,7 @@
                     WIDTH="3317"
                     HEIGHT="148">
             <Shape><Polygon POINTS="125 3938 125 3872 3434 3934 3438 3993 3430 4020 121 3962"/></Shape>
-	    <String CONTENT="la roue daus une esper de macnine, asser justement prise pour [[?]] plier, mais [[?asser]] pour linyre diev de tourner, tet est"
+	    <String CONTENT="la roue dans une espèce de machoire, assez justement prise pour l&#39;empécher de plier, mais pas assez pour l&#39;empécher de tourner, tel est"
                     HPOS="121"
                     VPOS="3872"
                     WIDTH="3317"
@@ -858,7 +858,7 @@
                     WIDTH="3333"
                     HEIGHT="164">
             <Shape><Polygon POINTS="125 4001 125 3938 1238 3970 1352 3958 1461 3950 1461 3950 1465 3950 1465 3950 1469 3950 1469 3950 1500 3962 1535 3977 1637 3966 1703 3958 1703 3958 1707 3958 1707 3958 1711 3958 1711 3958 1735 3966 1774 3981 1860 3970 1918 3962 1918 3962 1922 3962 1922 3962 1922 3962 1926 3962 1926 3962 1946 3970 1985 3989 2020 3973 2035 3966 2035 3966 2035 3966 2039 3966 2039 3966 2043 3966 2043 3966 2043 3966 2047 3966 2071 3973 2110 3985 2180 3973 2227 3970 2227 3970 2231 3970 2231 3970 2231 3970 2235 3970 2235 3970 2250 3977 2297 3997 2348 3981 2352 3981 2352 3981 2352 3981 2356 3981 2356 3981 2485 4001 2790 3985 2852 3985 2856 3985 2856 3985 2856 3985 2879 3989 2993 4013 3071 3993 3071 3993 3075 3993 3075 3993 3079 3993 3079 3993 3090 3993 3333 4016 3450 4001 3454 4087 3446 4102 121 4024"/></Shape>
-	    <String CONTENT="le support vu un plan par la fig. VI, et de profil par la figure (V.), (A) est le supportqui routtent la tige, et (BO)d la machine"
+	    <String CONTENT="le support vu en plan par la fig. VI, et de profil par la figure (V.), (A) est le support qui soutient la tige, et (BO) la machoire"
                     HPOS="121"
                     VPOS="3938"
                     WIDTH="3333"
@@ -875,7 +875,7 @@
                     WIDTH="3337"
                     HEIGHT="145">
             <Shape><Polygon POINTS="121 4075 121 4016 3446 4075 3450 4138 3442 4161 113 4102"/></Shape>
-	    <String CONTENT="entre la quelle au fasse que touher la roue. La piece (B) est une plaque que l&#39;on fait approcher au moyen de la boete du support"
+	    <String CONTENT="entre laquelle on fait passer librement la roue. la piece (B) est une plaque que l&#39;on fait approcher au moyen de la boete du support"
                     HPOS="113"
                     VPOS="4016"
                     WIDTH="3337"
@@ -892,7 +892,7 @@
                     WIDTH="3341"
                     HEIGHT="160">
             <Shape><Polygon POINTS="125 4141 125 4075 1144 4106 1254 4095 1281 4091 1281 4091 1285 4091 1285 4091 1285 4091 1289 4091 1289 4091 1297 4095 1336 4110 1418 4095 1434 4095 1434 4095 1438 4095 1438 4095 1438 4095 1453 4095 1535 4114 2184 4110 2286 4110 2289 4110 2321 4110 2547 4134 2618 4118 2618 4118 2622 4118 2622 4118 2625 4118 2625 4118 2625 4118 2629 4118 2719 4138 3454 4134 3462 4208 3454 4235 121 4161"/></Shape>
-	    <String CONTENT="jusqua ce quelle ne fasse que toucher la roue et la placque da cier (O) porte deux broches comme (ab) que lan fait mouroir de (OunB)"
+	    <String CONTENT="jusqu&#39;a ce quelle ne fasse que toucher la roue et la plaque dacier (O) porte deux broches comme (ab) que l&#39;on fait mouvoir de ([[OunB]])"
                     HPOS="121"
                     VPOS="4075"
                     WIDTH="3341"
@@ -909,7 +909,7 @@
                     WIDTH="3329"
                     HEIGHT="160">
             <Shape><Polygon POINTS="125 4204 125 4134 3446 4212 3450 4274 3442 4294 121 4220"/></Shape>
-	    <String CONTENT="[[jurquir?]] ce que la placque (O) touche la roue legerement alour ou sert les vir de pression (C) la placque (B) fig VI, est fendue pour le pasage"
+	    <String CONTENT="jusqu&#39;à ce que la plaque (O) touche la roue légérement alors on sert les vis de pression (C) la placque (B) fig VI, est fendue pour le pasage"
                     HPOS="121"
                     VPOS="4134"
                     WIDTH="3329"
@@ -926,7 +926,7 @@
                     WIDTH="2446"
                     HEIGHT="145">
             <Shape><Polygon POINTS="117 4251 117 4188 2551 4251 2555 4313 2547 4333 109 4282"/></Shape>
-	    <String CONTENT="de la tige de roue (1 et 2) sout les broches du support qui autrent daus la boetr (K) la support fig. I."
+	    <String CONTENT="de la tige de la roue (1 et 2) sont les broches du support qui entrent dans la boete (K) du support fig. I."
                     HPOS="109"
                     VPOS="4188"
                     WIDTH="2446"
@@ -943,7 +943,7 @@
                     WIDTH="3337"
                     HEIGHT="199">
             <Shape><Polygon POINTS="125 4325 121 4263 230 4243 230 4243 230 4243 234 4243 547 4270 633 4274 742 4274 1101 4263 1105 4263 1105 4263 1238 4282 1297 4290 1348 4282 1418 4274 1418 4274 1422 4274 1422 4274 1422 4274 1426 4274 1426 4274 1426 4274 1449 4286 1469 4298 3458 4325 3458 4403 3450 4442 1637 4407 1637 4407 1375 4384 1285 4376 1258 4380 1184 4395 1184 4395 1184 4395 1180 4395 1180 4395 996 4372 957 4368 933 4372 824 4388 824 4388 820 4388 820 4388 629 4360 613 4360 597 4360 465 4380 465 4380 461 4380 461 4380 461 4380 339 4356 300 4376 300 4376 300 4376 296 4376 296 4376 296 4376 293 4376 293 4376 121 4345"/></Shape>
-	    <String CONTENT="Le support qui sert aurroues pout [[s&#39;elerer?]] par les broches, et par les placques mẽnes  (d,e) attaches lime sau l&#39;antre par deux vis"
+	    <String CONTENT="Le support qui sert aux roues peut s&#39;élever par les broches, et par les plaques mêmes  (d,e) attachées lune sur l&#39;autre par deux vis"
                     HPOS="121"
                     VPOS="4243"
                     WIDTH="3337"
@@ -960,7 +960,7 @@
                     WIDTH="1379"
                     HEIGHT="121">
             <Shape><Polygon POINTS="121 4407 121 4345 437 4349 437 4349 500 4329 504 4329 504 4329 504 4329 508 4329 508 4329 508 4329 511 4329 511 4329 511 4329 515 4329 547 4352 547 4352 550 4352 609 4333 613 4333 613 4333 613 4333 617 4333 617 4333 777 4356 781 4356 785 4356 894 4337 894 4337 898 4337 898 4337 898 4337 902 4337 902 4337 961 4360 961 4360 961 4360 1090 4341 1090 4341 1094 4341 1094 4341 1094 4341 1098 4341 1098 4341 1152 4364 1152 4364 1156 4364 1449 4349 1453 4349 1453 4349 1453 4349 1457 4349 1457 4349 1461 4349 1461 4349 1492 4372 1484 4435 1477 4450 113 4438"/></Shape>
-	    <String CONTENT="que servantales fisier à quelle hauteur ou rent."
+	    <String CONTENT="qui servent à les fixer à que&#39;lle hauteur on veut."
                     HPOS="113"
                     VPOS="4329"
                     WIDTH="1379"
@@ -987,7 +987,7 @@
                     WIDTH="226"
                     HEIGHT="125">
             <Shape><Polygon POINTS="1449 101 1438 11 1652 7 1664 89 1660 132 1445 128"/></Shape>
-	    <String CONTENT="127"
+	    <String CONTENT="122"
                     HPOS="1438"
                     VPOS="7"
                     WIDTH="226"
