@@ -1,4 +1,4 @@
-schema: https://htr-united.github.io/schema/2021-10-15/schema.json
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: CREMMA Manuscrits du 18e
 url: https://github.com/HTR-United/CREMMA-MSS-18
 project-name: CREMMA
@@ -24,7 +24,7 @@ description: 'Manuscripts of the 18th century
 language:
 - fra
 script:
-- Latn
+- iso: Latn
 script-type: only-manuscript
 time:
   notBefore: '1700'
@@ -46,3 +46,4 @@ volume:
 - metric: regions
   count: 131
 transcription-guidelines: "Abr\xE9viations conserv\xE9es."
+production-software: "eScriptorium + Kraken"
