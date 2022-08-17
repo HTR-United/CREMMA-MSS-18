@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f21.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4263" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4262" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4261" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT4264" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT1407" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1406" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3931"
+          HEIGHT="5810"
+          PHYSICAL_IMG_NR="10"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3931"
+                  HEIGHT="5810">
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
