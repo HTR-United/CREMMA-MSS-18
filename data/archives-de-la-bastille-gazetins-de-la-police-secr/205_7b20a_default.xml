@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT4075" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4074" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4073" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4072" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
-    <OtherTag ID="LT1375" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1374" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT1484" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1375" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1374" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -103,13 +103,13 @@
           
           
           <TextLine ID="eSc_line_fad06d86"
-                    TAGREFS="LT1374"
+                    TAGREFS="LT1484"
                     BASELINE="2441 664 2542 657" 
                     HPOS="2434"
                     VPOS="600"
                     WIDTH="108"
                     HEIGHT="81">
-            <Shape><Polygon POINTS="2502 600 2468 600 2434 600 2441 664 2441 681 2542 670 2542 657 2535 600 2502 600"/></Shape>
+            <Shape><Polygon POINTS="2468 600 2434 600 2441 664 2441 681 2542 670 2542 657 2535 600 2502 600"/></Shape>
 	    <String CONTENT="nt"
                     HPOS="2434"
                     VPOS="600"
@@ -137,13 +137,13 @@
           
           
           <TextLine ID="eSc_line_9c3cf8b7"
-                    
+                    TAGREFS="LT1484"
                     BASELINE="2763 845 2855 850" 
                     HPOS="2758"
                     VPOS="765"
                     WIDTH="98"
                     HEIGHT="108">
-            <Shape><Polygon POINTS="2758 873 2849 873 2852 849 2856 795 2768 765 2761 842 2758 873"/></Shape>
+            <Shape><Polygon POINTS="2849 873 2852 849 2856 795 2768 765 2761 842 2758 873"/></Shape>
 	    <String CONTENT="er"
                     HPOS="2758"
                     VPOS="765"

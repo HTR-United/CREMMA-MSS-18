@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT4030" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4029" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT4028" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4027" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
-    <OtherTag ID="LT1372" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1358" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT1482" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1372" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1358" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -41,7 +41,7 @@
                     VPOS="966"
                     WIDTH="116"
                     HEIGHT="156">
-            <Shape><Polygon POINTS="3132 1011 3087 966 3036 966 3031 1056 3021 1122 3132 1107 3137 1066 3137 1031 3132 1011"/></Shape>
+            <Shape><Polygon POINTS="3087 966 3036 966 3031 1056 3021 1122 3132 1107 3137 1066 3137 1031 3132 1011"/></Shape>
 	    <String CONTENT="36"
                     HPOS="3021"
                     VPOS="966"
@@ -89,7 +89,7 @@
           
           
           <TextLine ID="eSc_line_5494bf36"
-                    TAGREFS="LT1372"
+                    TAGREFS="LT1358"
                     BASELINE="886 1399 1445 1383" 
                     HPOS="881"
                     VPOS="1298"
@@ -378,13 +378,13 @@
           
           
           <TextLine ID="eSc_line_92b24a57"
-                    
+                    TAGREFS="LT1482"
                     BASELINE="1898 3043 2035 3043" 
                     HPOS="1893"
                     VPOS="2994"
                     WIDTH="141"
                     HEIGHT="80">
-            <Shape><Polygon POINTS="1994 2994 1943 2994 1893 2994 1893 3039 1893 3074 2034 3074 2034 3039 2029 2994 1994 2994"/></Shape>
+            <Shape><Polygon POINTS="1943 2994 1893 2994 1893 3039 1893 3074 2034 3074 2034 3039 2029 2994 1994 2994"/></Shape>
 	    <String CONTENT="vous"
                     HPOS="1893"
                     VPOS="2994"
