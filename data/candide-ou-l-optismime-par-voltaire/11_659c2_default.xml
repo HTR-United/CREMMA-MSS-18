@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT4234" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT4233" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4231" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT4232" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
-    <OtherTag ID="LT1391" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT1392" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT1481" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1391" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT1392" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -25,13 +25,13 @@
                   WIDTH="2628"
                   HEIGHT="3391">
         
-        <TextBlock HPOS="158"
-                   VPOS="67"
-                   WIDTH="133"
-                   HEIGHT="111"
+        <TextBlock HPOS="124"
+                   VPOS="61"
+                   WIDTH="176"
+                   HEIGHT="161"
                    ID="eSc_textblock_b6e93d88"
                    TAGREFS="BT4232">
-          <Shape><Polygon POINTS="158 178 203 67 291 90 280 178"/></Shape>
+          <Shape><Polygon POINTS="124 222 164 72 291 61 300 212"/></Shape>
           
           
           <TextLine ID="eSc_line_48d4c8b0"
@@ -403,17 +403,17 @@
           
           <TextLine ID="eSc_line_8d5bbb33"
                     TAGREFS="LT1391"
-                    BASELINE="2362 3198 2429 3207" 
-                    HPOS="2353"
-                    VPOS="3085"
-                    WIDTH="85"
-                    HEIGHT="178">
-            <Shape><Polygon POINTS="2362 3198 2353 3258 2398 3252 2413 3263 2429 3207 2438 3105 2373 3085 2362 3198"/></Shape>
+                    BASELINE="2333 3188 2458 3187" 
+                    HPOS="2328"
+                    VPOS="3094"
+                    WIDTH="127"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="2330 3187 2330 3244 2410 3244 2410 3241 2413 3241 2455 3218 2455 3184 2452 3116 2396 3094 2393 3094 2390 3094 2387 3094 2328 3119 2330 3187"/></Shape>
 	    <String CONTENT="et"
-                    HPOS="2353"
-                    VPOS="3085"
-                    WIDTH="85"
-                    HEIGHT="178"></String>
+                    HPOS="2328"
+                    VPOS="3094"
+                    WIDTH="127"
+                    HEIGHT="150"></String>
           </TextLine>
 
           

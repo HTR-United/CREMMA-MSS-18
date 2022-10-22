@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT4263" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4262" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4261" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT4264" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
-    <OtherTag ID="LT1407" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1406" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT1483" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1407" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1406" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -25,13 +25,13 @@
                   WIDTH="2480"
                   HEIGHT="3508">
         
-        <TextBlock HPOS="1286"
-                   VPOS="537"
-                   WIDTH="652"
-                   HEIGHT="103"
+        <TextBlock HPOS="1277"
+                   VPOS="523"
+                   WIDTH="684"
+                   HEIGHT="131"
                    ID="eSc_textblock_33e85409"
                    TAGREFS="BT4261">
-          <Shape><Polygon POINTS="1286 628 1333 537 1515 546 1775 554 1891 571 1938 640"/></Shape>
+          <Shape><Polygon POINTS="1277 651 1282 523 1515 546 1775 554 1908 566 1961 654"/></Shape>
           
           
           <TextLine ID="eSc_line_30029ce3"
@@ -41,7 +41,7 @@
                     VPOS="540"
                     WIDTH="611"
                     HEIGHT="117">
-            <Shape><Polygon POINTS="1321 552 1292 602 1295 619 1295 657 1722 625 1810 654 1813 654 1816 657 1900 657 1903 610 1898 567 1760 549 1757 549 1754 549 1751 549 1751 552 1743 561 1705 540 1702 540 1699 540 1696 540 1693 540 1693 543 1669 561 1585 549 1582 549 1471 570 1330 546 1321 552"/></Shape>
+            <Shape><Polygon POINTS="1292 602 1295 619 1295 657 1722 625 1810 654 1813 654 1816 657 1900 657 1903 610 1898 567 1760 549 1757 549 1754 549 1751 549 1751 552 1743 561 1705 540 1702 540 1699 540 1696 540 1693 540 1693 543 1669 561 1585 549 1582 549 1471 570 1330 546 1321 552"/></Shape>
 	    <String CONTENT="Iena 6 déc. 1799"
                     HPOS="1292"
                     VPOS="540"
@@ -52,13 +52,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="584"
-                   VPOS="1005"
-                   WIDTH="1483"
-                   HEIGHT="1646"
+        <TextBlock HPOS="542"
+                   VPOS="973"
+                   WIDTH="1525"
+                   HEIGHT="1729"
                    ID="eSc_textblock_9b60a724"
                    TAGREFS="BT4261">
-          <Shape><Polygon POINTS="1927 1482 1962 1704 2020 1742 1985 1868 2067 1999 2020 2148 1915 2280 1962 2420 1950 2604 631 2651 584 2312 608 1040 1450 1005 1903 1005 1950 1064"/></Shape>
+          <Shape><Polygon POINTS="2024 1250 1990 1672 2052 1756 2013 1873 2067 1999 2020 2148 1915 2280 1962 2420 1964 2641 589 2702 546 2359 542 2331 557 1003 1450 1005 1903 973 1969 1050"/></Shape>
           
           
           <TextLine ID="eSc_line_4b2516c6"
@@ -273,7 +273,7 @@
                     WIDTH="1374"
                     HEIGHT="134">
             <Shape><Polygon POINTS="605 2005 605 2031 1974 1970 1976 1958 1971 1914 1830 1897 1827 1897 1824 1897 1821 1897 1798 1917 1737 1900 1734 1900 1731 1900 1567 1920 1552 1908 1552 1906 1550 1906 1547 1906 1544 1906 1374 1911 1371 1911 1283 1935 1187 1923 1184 1923 1105 1938 1070 1923 1067 1923 1064 1923 1061 1923 1058 1923 1038 1941 947 1932 944 1932 941 1932 938 1932 921 1946 877 1929 874 1929 871 1929 868 1929 865 1929 865 1932 845 1949 783 1938 780 1938 602 1958 605 2005"/></Shape>
-	    <String CONTENT="vous pour un grand nombre de bons"
+	    <String CONTENT="soins pour un grand nombre de bons"
                     HPOS="602"
                     VPOS="1897"
                     WIDTH="1374"
@@ -307,7 +307,7 @@
                     WIDTH="1410"
                     HEIGHT="132">
             <Shape><Polygon POINTS="599 2177 599 2192 859 2198 862 2198 865 2198 868 2198 886 2183 897 2174 1035 2172 1093 2174 1210 2186 1213 2186 1216 2186 1219 2186 1219 2183 1222 2183 1231 2172 1234 2169 1260 2169 1383 2180 1386 2180 1462 2163 1476 2160 1485 2163 1520 2174 1523 2174 1526 2174 1640 2157 1681 2148 1868 2145 1877 2148 1909 2160 1912 2160 1915 2160 2003 2142 2006 2131 1994 2075 1953 2087 1936 2078 1915 2066 1912 2066 1909 2066 1833 2081 1772 2093 1722 2087 1649 2075 1646 2075 1643 2075 1640 2075 1620 2090 1605 2098 1532 2093 1400 2084 1397 2084 1278 2104 1237 2110 1213 2107 1120 2093 1117 2093 1114 2093 1046 2113 1026 2119 979 2116 874 2110 871 2110 868 2110 865 2110 851 2122 845 2128 672 2131 666 2131 634 2116 631 2116 628 2116 625 2116 596 2128 599 2177"/></Shape>
-	    <String CONTENT="sur papier vélin prépar[?]. Du moins"
+	    <String CONTENT="sur papier vélin préparer. Du moins"
                     HPOS="596"
                     VPOS="2066"
                     WIDTH="1410"
@@ -412,7 +412,7 @@
           
           
           <TextLine ID="eSc_line_041a79b5"
-                    
+                    TAGREFS="LT1406"
                     BASELINE="1917 550 1969 550" 
                     HPOS="1915"
                     VPOS="511"

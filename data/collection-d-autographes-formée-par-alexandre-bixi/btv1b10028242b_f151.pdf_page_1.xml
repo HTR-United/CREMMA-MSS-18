@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT4263" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4262" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4261" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT4264" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
-    <OtherTag ID="LT1407" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1406" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT1483" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1407" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1406" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -52,13 +52,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1099"
-                   VPOS="116"
-                   WIDTH="173"
-                   HEIGHT="196"
+        <TextBlock HPOS="1071"
+                   VPOS="107"
+                   WIDTH="266"
+                   HEIGHT="205"
                    ID="eSc_textblock_d3e72dde"
                    TAGREFS="BT4263">
-          <Shape><Polygon POINTS="1099 312 1099 175 1178 175 1216 116 1272 254"/></Shape>
+          <Shape><Polygon POINTS="1099 312 1071 170 1164 129 1295 107 1337 254"/></Shape>
           
           
           <TextLine ID="eSc_line_0d7a52bb"
