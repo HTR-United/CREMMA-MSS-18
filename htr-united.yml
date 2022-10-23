@@ -3,24 +3,35 @@ title: CREMMA Manuscrits du 18e
 url: https://github.com/HTR-United/CREMMA-MSS-18
 project-name: CREMMA
 authors:
-- name: Falcoz
-  surname: Elsa
-  roles:
-  - transcriber
-  - aligner
-- name: "Cl\xE9rice"
-  surname: Thibault
-  roles:
-  - project-manager
-  - quality-control
 - name: "Chagu\xE9"
   surname: Alix
   roles:
   - project-manager
   - quality-control
-description: 'Manuscripts of the 18th century
-
-  '
+- name: "Cl\xE9rice"
+  surname: Thibault
+  roles:
+  - project-manager
+  - quality-control
+- name: "Norindr"
+  surname: Jade
+  roles:
+  - transcriber
+- name: "Norindr"
+  surname: Jade
+  roles:
+  - transcriber
+- name: Falcoz
+  surname: Elsa
+  roles:
+  - transcriber
+  - aligner
+- name: Faure
+  surname: Margaux
+  roles:
+  - transcriber
+  - aligner
+description: 'Manuscripts of the 18th century'
 language:
 - fra
 script:
