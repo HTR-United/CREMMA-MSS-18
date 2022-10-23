@@ -13,11 +13,11 @@ authors:
   roles:
   - project-manager
   - quality-control
-- name: "Norindr"
+- name: Norindr
   surname: Jade
   roles:
   - transcriber
-- name: "Norindr"
+- name: Norindr
   surname: Jade
   roles:
   - transcriber
@@ -31,7 +31,7 @@ authors:
   roles:
   - transcriber
   - aligner
-description: 'Manuscripts of the 18th century'
+description: Manuscripts of the 18th century
 language:
 - fra
 script:
@@ -49,102 +49,118 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 59264
+  count: 141747
 - metric: files
-  count: 50
+  count: 125
 - metric: lines
-  count: 1981
+  count: 4017
 - metric: regions
-  count: 131
+  count: 329
 transcription-guidelines: "Abr\xE9viations conserv\xE9es."
 production-software: eScriptorium + Kraken
 characters:
   mode: NFD
   members:
   - e
-  - a
   - s
+  - a
   - r
   - t
-  - u
   - n
+  - u
   - i
-  - l
   - o
+  - l
   - d
-  - c
   - p
-  - .
+  - c
   - m
-  - f
   - v
+  - .
   - q
+  - f
   - "\u0301"
-  - b
   - ''''
-  - g
-  - h
   - ','
-  - L
+  - g
+  - b
+  - h
   - y
   - x
-  - S
-  - '1'
-  - ^
+  - j
+  - L
   - C
   - "\u0300"
-  - j
-  - (
-  - )
-  - '2'
-  - '['
-  - ']'
-  - '6'
-  - E
-  - '3'
-  - '4'
-  - '0'
-  - "\u0302"
-  - '5'
-  - X
-  - '8'
-  - z
-  - B
-  - D
-  - '7'
-  - '9'
-  - F
-  - I
-  - '-'
-  - P
-  - G
-  - "\u0308"
-  - '?'
-  - R
-  - N
-  - "\u2019"
-  - J
+  - ^
+  - '1'
   - M
-  - O
-  - A
-  - H
+  - S
+  - "\u0302"
+  - z
+  - E
+  - R
   - ;
-  - /
-  - T
-  - V
+  - '2'
+  - I
+  - '6'
+  - '0'
   - '>'
   - <
-  - K
-  - ':'
-  - '&'
-  - '='
-  - "\u0327"
-  - Q
-  - "\u0153"
-  - "\_"
-  - "\u017F"
-  - Z
-  - _
+  - D
+  - V
+  - J
+  - '4'
+  - '3'
+  - (
+  - )
+  - P
+  - "\u0308"
+  - '5'
   - "\u0303"
+  - '-'
+  - '['
+  - ']'
+  - '7'
+  - B
+  - '8'
+  - X
+  - A
+  - '9'
+  - N
+  - F
+  - G
+  - T
+  - '?'
+  - "\u0327"
+  - /
+  - ':'
+  - O
+  - H
+  - "\u2019"
+  - "\xAC"
+  - +
+  - "\_"
+  - "\u0153"
+  - U
+  - '&'
+  - "\xAB"
+  - Q
+  - '='
+  - K
+  - '!'
+  - k
+  - W
+  - Z
+  - w
+  - "\xB0"
+  - "\u204A"
+  - "\uA751"
+  - "\u017F"
+  - "\u2038"
+  - '#'
+  - "\u0336"
+  - _
   - Y
   - "\u0304"
+  - "\xBB"
+  - "\u0366"
