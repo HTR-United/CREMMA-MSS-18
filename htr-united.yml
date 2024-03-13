@@ -1,65 +1,33 @@
-schema: https://htr-united.github.io/schema/2022-04-15/schema.json
-title: CREMMA Manuscrits du 18e
-url: https://github.com/HTR-United/CREMMA-MSS-18
-project-name: CREMMA
 authors:
-- name: "Chagu\xE9"
+- name: Chagué
+  roles:
+  - project-manager
+  - quality-control
   surname: Alix
+- name: Clérice
   roles:
   - project-manager
   - quality-control
-- name: "Cl\xE9rice"
   surname: Thibault
-  roles:
-  - project-manager
-  - quality-control
 - name: Norindr
-  surname: Jade
   roles:
   - transcriber
-- name: Norindr
   surname: Jade
+- name: Norindr
   roles:
   - transcriber
+  surname: Jade
 - name: Van Kote
+  roles:
+  - transcriber
+  - aligner
   surname: Elsa
-  roles:
-  - transcriber
-  - aligner
 - name: Faure
-  surname: Margaux
   roles:
   - transcriber
   - aligner
-description: Manuscripts of the 18th century
-language:
-- fra
-script:
-- iso: Latn
-script-type: only-manuscript
-time:
-  notBefore: '1700'
-  notAfter: '1799'
-hands:
-  count: 1-per-folder
-  precision: exact
-license:
-- name: CC-BY 4.0
-  url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
-volume:
-- metric: characters
-  count: 141747
-- metric: files
-  count: 125
-- metric: lines
-  count: 4017
-- metric: regions
-  count: 329
-transcription-guidelines: "Abr\xE9viations conserv\xE9es."
-production-software: eScriptorium + Kraken
+  surname: Margaux
 characters:
-  mode: NFD
   members:
   - e
   - s
@@ -79,8 +47,8 @@ characters:
   - .
   - q
   - f
-  - "\u0301"
-  - ''''
+  - ́
+  - "'"
   - ','
   - g
   - b
@@ -90,12 +58,12 @@ characters:
   - j
   - L
   - C
-  - "\u0300"
+  - ̀
   - ^
   - '1'
   - M
   - S
-  - "\u0302"
+  - ̂
   - z
   - E
   - R
@@ -114,36 +82,36 @@ characters:
   - (
   - )
   - P
-  - "\u0308"
+  - ̈
   - '5'
-  - "\u0303"
+  - ̃
   - '-'
-  - '['
-  - ']'
   - '7'
   - B
   - '8'
-  - X
   - A
+  - '['
+  - ']'
   - '9'
   - N
   - F
   - G
   - T
   - '?'
-  - "\u0327"
+  - X
+  - ̧
   - /
   - ':'
   - O
   - H
-  - "\u2019"
-  - "\xAC"
+  - ’
+  - ¬
   - +
-  - "\_"
-  - "\u0153"
+  -  
+  - œ
   - U
   - '&'
-  - "\xAB"
+  - «
   - Q
   - '='
   - K
@@ -152,15 +120,47 @@ characters:
   - W
   - Z
   - w
-  - "\xB0"
-  - "\u204A"
-  - "\uA751"
-  - "\u017F"
-  - "\u2038"
+  - °
+  - ⁊
+  - ꝑ
+  - ſ
+  - ‸
   - '#'
-  - "\u0336"
+  - ̶
   - _
   - Y
-  - "\u0304"
-  - "\xBB"
-  - "\u0366"
+  - ̄
+  - »
+  - ͦ
+  mode: NFD
+description: Manuscripts of the 18th century
+format: Alto-XML
+hands:
+  count: 1-per-folder
+  precision: exact
+language:
+- fra
+license:
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: CREMMA
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+script:
+- iso: Latn
+script-type: only-manuscript
+time:
+  notAfter: '1799'
+  notBefore: '1700'
+title: CREMMA Manuscrits du 18e
+transcription-guidelines: Abréviations conservées.
+url: https://github.com/HTR-United/CREMMA-MSS-18
+volume:
+- count: 141690
+  metric: characters
+- count: 125
+  metric: files
+- count: 4019
+  metric: lines
+- count: 329
+  metric: regions
